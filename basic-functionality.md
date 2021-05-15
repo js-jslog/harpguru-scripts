@@ -45,9 +45,17 @@ In this menu we've also got options to identify which notes we want to be tested
 
 # Scales menu
 
-The scales menu does what it says on the tin, it allows you to select scales for representation on the harpface and linear legend. We have split scales and chords in to separate screens accessible with these arrows, but the concept is the same for both. Select Minor triad here and the Root, flat3 & 5th will be turned on in the harpface and legend. This is 3rd position remember, in case it wasn't what you were expecting. We can put this back to 2nd position if it's more familiar, but oh! that might not be what you were expecting, we no longer have the Root, flat3 and 5th, we have the 2nd, 5th and flat7. What really happened is that we still have the Dminor triad (DFA), but in the context of 2nd position those notes play a different role. This is deliberate and useful behaviour from Harp Guru, but not what we want right now. We want to preserve the scale degrees so that when we change position or key the scale or chord we selected stays the same. That's one of the functions of the next button in the menu.
+The scales menu does what it says on the tin, it allows you to select scales for representation on the harpface and linear legend. We have split scales and chords in to separate screens accessible with these arrows, but the concept is the same for both. Select Minor triad here and the Root, flat3 & 5th will be turned on in the harpface and legend. This is 3rd position remember, in case it wasn't what you were expecting to see.
+
+We can put this back to 2nd position if it's more familiar, but oh! that might not be what you were expecting to happen, we no longer have the Root, flat3 and 5th, we have the 2nd, 5th and flat7. What really happened is that we still have the Dminor triad (DFA) we initially set, but in the context of 2nd position those notes play a different role. This is deliberate and useful behaviour from Harp Guru, but not what we want right now. We want to preserve the scale degrees so that when we change position or key the scale or chord we selected stays the same. That's one of the functions of the next button in the menu.
 
 # Pitch / Degree orientation
+
+So far we've seen the harpface with pitches on it and the linear legend with scale degrees. Well sometimes we want to reverse that which is exactly what the display mode button does. The application of this is obviuos, it's to accomodate your thought process whether it's pitch or scale degree oriented.
+
+But there's an extra function to this. This is where you control the priority of pitch vs degree in all your key and position manipulations. With the scale degrees given the priority on the harpface, if we select a minor triad again, and then change back to 3rd position, you can see that this time the change of position doesn't change the scale degrees we have selected, it changes the notes we're using to play those degrees.
+
+Dmionr triad in 3rd position, Gminor triad in 2nd position. You'll see the notes, but not the colours or position in the linear legend changing when we do this.
 
 # Register segmentation
 
