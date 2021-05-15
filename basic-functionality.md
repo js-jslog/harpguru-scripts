@@ -59,6 +59,12 @@ Dmionr triad in 3rd position, Gminor triad in 2nd position. You'll see the notes
 
 # Register segmentation
 
+The next tab down the side here is for octave segmentation.
+
 # Quiz mode
 
 # Page selection
+
+You'll notice that the menu tabs are colour coded. White means this is a menu from which to make a selection, yellow means this is a quick action tab with no options underneith it, and pink just means this is something completely different again, and what this is is a page selection button. Harp Guru has 3 pages with totally independent harpfaces with their own sets of options.
+
+There are several occasions when you might want to set up different harps rather than doing all of your work on a single one. The best example I like to give is for a 12 bar blues. You have 3 key changes, and depending on how you want to play through those key changes you could set up 3 different scales and flip between them as you're playing along. There are loads of other reasons this is useful. I find that once you know it's there are you understand the example I've just given then you know when you need it, and it'll be really helpful.
