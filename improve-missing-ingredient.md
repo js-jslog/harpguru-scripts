@@ -1,18 +1,47 @@
 Improv, the missing ingredient
 
-This is 2nd position. Now this supposed to be our closest friend on the harmoniaca. It's usually the first position we're introduced to, rightly or wrongly, and it's the one that we're spending most of our time with. So why is it that people spend years practicing their scales and perfecting their techniques while in second position, and learning the second position songs of masters only to find that they feel just as uninspired and lost during improv as a beginner. Well clearly there's something missing in their relationship with 2nd position, and today I want to highlight something I've found really useful in bringing together all of the practice I do in to something with some free musical expression and not just noodling around in scales. This is something that beginners and intermediates alike are commonly neglecting which can really take you from knowing things in second position, to just knowing second position full stop.
+This is 2nd position and it's supposed to be our closest friend on the harmoniaca. It's usually the first position we're introduced to, rightly or wrongly, and it's the one that we're spending most of our time with. So why is it that people spend years practicing their scales and perfecting their techniques while in second position, and learning the second position songs of masters only to find that they feel just as uninspired and lost during improv as a beginner. Well clearly there's something missing in their relationship with 2nd position, and today I want to highlight something I've found really useful in bringing together my abilities (such as they are at this point) in to something with some free musical expression to it and not recycling riffs and noodling around in scales.
 
-We're going to start at the beginning, but intermediates stick around, if you do follow us from the ground up you might be surprised how quickly you come to something new. This is all about shining a light on overlooked foundations.
+This is something that can benefit players of all levels and works in every position, and as usual I'm going to try and sell you Harp Guru in the process so strap in and prepare to have your whole world transformed, once again.
 
-To *start* playing in second position, *all* you need to do is use these holes as your root note, the 2draw, 3blow, 6blow and 9blow. A root note is the same thing as the key of the song you'll be playing in, so this is why when you are playing a song in G, in second position you need to use a C harp. You see this is a C harp, because the 1blow is C, and the notes on the 2draw, 3blow, 6blow and 9blow are G, meaning that when we use these as the root of the songs we play, we'll be playing in G.
 
-And until you know how, it can be a little bit of a mystery as to how to know which harp to use for a given song or which song you'll be ready for with a given harp. Harp Guru can help you with that, where for any position, in this case 2nd, you can see all the harps which produce all the song keys in that position. So 2nd position on a G harp will produce a D, and if you want to play in C you will need an F harp.
+To *start* playing in second position, *all* you need to do is use these holes as your root note, the 2draw, 3blow, 6blow and 9blow. 
 
-Anyway, let's return to playing G on a C harp to keep things simple.
+That's fine, you probably already knew that, you think. But how much time have you spent drilling this? Uh oh, now this sounds like it going to be even more boring than scales practice, but just stop right there. I'm telling you it's not. In fact I'm telling you that really getting your mind and body familiar with the sound and feel of these notes, and exploring the creative opportunites that limiting your options brings you is much more fun than scales, and is in fact much more fun than the uninspired improv you find yourself doing at least some of the time.
+
+For what it's worth I've recorded myself just playing these notes along to a funk backing track. It was fun and it's really not simple. Once your sense of musicality tries to get involved you'll either discover that you've got a lot more to learn about where your root notes are all over the harp than you thought you did, or you'll just find yourself playing with a freedom and creativity you didn't realise you had or would be possible with just one note.
+
+Now apart from being a great shortcut in to meaningful improv, even for beginners, this exercise will give you the confidence that so many people lack to move up the harp later on. Many intermediates are still missing this ability and it's one of the key dynamic tools which improvisers use. Very simple but very effective so get a funky jam track on and show them what you can do with just 3 identical notes. It's probably *as* interesting as what many can do with a whole scale.
+
+That's step 1. Step 2 is to start adding more notes. Let's add in the 4th and the 5th. Arguably these are the two most important notes after the root. The 5th certainly, and the 4th well if we're playing over a 12 bar progression it's an obvious choice. I recorded myself again, and what I want to emphasise isn't my playing ability, certainly not, it's just to help you see that there's music to be made even with just 3 notes. Again, more fun than practicing scales and it should get you thinking about the individual relationships between notes with a lot more focus. These little chunks, these shapes can really lodge themselves in your mind and when play with these shapes in mind and only a few notes coming out your instrument and in to your ears you give your brain this great opportunity to bring together and solidify a visual and audio model.
+
+Step 3 is to repeat step 2 with a different chunk of notes. Maybe a major triad all over the harp. Or maybe the root 5th and flat7 all over the harp. And the more of these little chunks you practice the more context you are adding to your full scales. Ultimately it is the full scale you want to permit yourself to use. All of this is to help you feel what's going on inside your scales, and understand your positions in full. Honestly when I'm improvising now I'm seeing these colours and the shapes of the chunks in my mind and with that, I've got no fear of getting lost in the upper octave. NO FEAR. At all. Just consider that.
+
+
+I've also realised how stupid was my previous inhibition to going up the harp during minor blues, and I realised it's because practicing the minor pentatonic scale had this big roadblock in the middle of it where the flat3 was not accessible to me, being on an overblow. Well as soon as you're no longer practicing this as one linear scale, but a series of chunks you realise that big roadblock is actually just a missing note. There's a lot more to a minor sound than the flat3 alone.
+
+So if you want to build and strengthen your mental model both visual and oral, improve your ability to convert ideas to action on the fly, open up the full range of the harp to all of your existing abilities, unlease your creativity and add a fun practice to your routine then I encourage you to give this a try.
+
+You can do this without Harp Guru, but do bring some kind of visual element to support your mental model. I've linked some alternative web apps in the description, but if you want to use Harp Guru's sophisticated layout modelling and unique Quiz mode which I'm demonstrating now then pop over to the Google or iOS stores and download now.
+
+If you've benefitted from this practice the let us know in the comments and remember to like and subscribe to help me out and to make sure you don't miss any content.
+
+Thanks for making it to the end of the video. You're a legend.
+
+
+
+
+
+
+
+
+
+relationships between them clearly now it's been an absolute game changer. I'm not the slickest player, but if you tell me to slide up to 6 in a few different positions now I can do it well. And if I play a riff in the lower octave I can repeat it in a higher octave. It's been a completely liberating experience and it only took me a couple of weeks to go through everything I've talked about here to finally feel comfortable in second position.
+
+
 
 So now that you're happily droning along with a G, let me give you my first piece of advice; practice jumping around between these root notes. The root is the safest note you can hit, They will always sound great, even if you mess up a bit like you can hear me doing now. I know you can because I've already recorded it, and it was really fun, really challenging and definitely felt like improve - except I could do it! Reducing your melodic options means you can really focus on rythm and texture, and if anyone tells you you can't be musically expressive without melody then they're wrong. Just ask a drummer.
 
-Now apart from being a great shortcut in to meaningful improv, even for beginners, this exercise will give you the confidence that so many people lack to move up the harp later on. Many intermediates are still missing this skill so get a funky jam track on (I suggest a funky track with a predominanly rythmic exercise like this) and show them what you can do with just 3 identical notes. It's probably *as* interesting as what many can do with a whole scale.
 
 So now that we're happily *jumping* around on G, we'll soon want to be playing some other notes along with it, and often the first notes that we'll be interested in are the 4th and the 5th. The 5th in partiular is absolutely fundamental to almost every single musical structure you'll encounter, whether you know it or not, and while the 4th is also important the real reason I'm introducing them together here is because they are the core of the 12 bar blues, which is the core of much of our harmonica improv isn't it, so you'll want to be totally confident about the location of these 3 notes throughout 2nd position won't you and you'll notice, all very easily playable all the way up and down the harp so guess what I'm going to suggest next. Yes, learning to jump around between the roots and 5ths in particualr, is going to bring you so much confidence later on, and confidence right now for that matter. If you tried the previous exercise with just the root note and were surprised about the freedom of expression, and you can gradually get confident in the locations of all 11 of these holes, then you'll be amazed how suddenly you can feel orientated and expressive within a 12 bar jam track. Everything you're hearing in the background now has taken place only on the root 4th and 5th.
 
