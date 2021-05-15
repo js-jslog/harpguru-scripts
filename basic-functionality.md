@@ -45,6 +45,8 @@ In this menu we've also got options to identify which notes we want to be tested
 
 # Scales menu
 
+The scales menu does what it says on the tin, it allows you to select scales for representation on the harpface and linear legend. We have split scales and chords in to separate screens accessible with these arrows, but the concept is the same for both. Select Minor triad here and the Root, flat3 & 5th will be turned on in the harpface and legend. This is 3rd position remember, in case it wasn't what you were expecting. We can put this back to 2nd position if it's more familiar, but oh! that might not be what you were expecting, we no longer have the Root, flat3 and 5th, we have the 2nd, 5th and flat7. What really happened is that we still have the Dminor triad (DFA), but in the context of 2nd position those notes play a different role. This is deliberate and useful behaviour from Harp Guru, but not what we want right now. We want to preserve the scale degrees so that when we change position or key the scale or chord we selected stays the same. That's one of the functions of the next button in the menu.
+
 # Pitch / Degree orientation
 
 # Register segmentation
