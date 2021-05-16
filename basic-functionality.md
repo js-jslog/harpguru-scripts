@@ -49,7 +49,7 @@ The scales menu does what it says on the tin, it allows you to select scales for
 
 We can put this back to 2nd position if it's more familiar, but oh! that might not be what you were expecting to happen, we no longer have the Root, flat3 and 5th, we have the 2nd, 5th and flat7. What really happened is that we still have the Dminor triad (DFA) we initially set, but in the context of 2nd position those notes play a different role. This is deliberate and useful behaviour from Harp Guru, but not what we want right now. We want to preserve the scale degrees so that when we change position or key the scale or chord we selected stays the same. That's one of the functions of the next button in the menu.
 
-# Pitch / Degree orientation
+# Display mode
 
 So far we've seen the harpface with pitches on it and the linear legend with scale degrees. Well sometimes we want to reverse that which is exactly what the display mode button does. The application of this is obviuos, it's to accomodate your thought process whether it's pitch or scale degree oriented.
 
@@ -57,14 +57,34 @@ But there's an extra function to this. This is where you control the priority of
 
 Dmionr triad in 3rd position, Gminor triad in 2nd position. You'll see the notes, but not the colours or position in the linear legend changing when we do this.
 
-# Register segmentation
+# Octave segmentation
 
-The next tab down the side here is for octave segmentation.
+The next tab down the side here is for octave segmentation. This a simple and handy little feature to help you break the harp up in to managable chunks. So much of learning is about chunking things up and it's the same for the harpface.
 
-# Quiz mode
+We go in to some detail in the deep dive video but I'm sure you can imagine occasions when you would want to remove this segmentation. That's why we have this option to toggle it on and off.
+
+# Experience mode
+
+The next tab is the experience mode toggle. Right now, when making this video there 2 modes, explore & quiz mode, but there may be more on the way depending on how we decide to implement a few ideas which are forming in the background. If more modes are added then we'll at least create a deep dive video and link to it in the description in this video, and we may update this video itself.
+
+Explore mode is what we've been using so far and gives us the ability to update and play with the harps without restriction. Quiz mode, which is activated by tapping this button will present us with notes to identify the locations of. You'll get a few seconds between each answer you give to give the next one before they are presented to you, and if you get one wrong you'll see the  right answers along with the siblings of your wrong answer to help you internalise their relationships.
+
+You'll notice we're only getting scale degrees from the major pentatonic being asked of us. This is because of the quiz settings we made earlier. We can change these while in quiz mode if we want. But that and other subjects will be covered in more detail in the deep dive video.
+
+The display mode button is also relevant here as the questions asked will be based on whether degrees or pitches are presented on the harpface. Currently it's scale degrees, but we can quickly change to pitches, which honestly is much harder to do, but obviously relevant.
+
+It's also worth getting rid of the octave segmentations in quiz mode to step it up a level.
 
 # Page selection
 
-You'll notice that the menu tabs are colour coded. White means this is a menu from which to make a selection, yellow means this is a quick action tab with no options underneith it, and pink just means this is something completely different again, and what this is is a page selection button. Harp Guru has 3 pages with totally independent harpfaces with their own sets of options.
+You'll notice that the menu tabs are colour coded. White means this is a menu which will pop out from which you'll make a selection, yellow means this is a quick action tab with no options underneith it, and pink at the bottom here just means this is something completely different again, and what this is is a page selection button. Harp Guru has 3 pages with totally independent harpfaces with their own sets of options.
 
 There are several occasions when you might want to set up different harps rather than doing all of your work on a single one. The best example I like to give is for a 12 bar blues. You have 3 key changes, and depending on how you want to play through those key changes you could set up 3 different scales and flip between them as you're playing along. There are loads of other reasons this is useful. I find that once you know it's there are you understand the example I've just given then you know when you need it, and it'll be really helpful.
+
+# Conclusion
+
+So that's a quick rundown of all the controls. You'll notice from the regular videos that the beauty of Harp Guru is often in how you use these controls in combination with one another so I hope that this primer and the deeper dive video's linked from the description will give you everything you need to get the most out of Harp Guru, but as ever if you have any questions left over I'd be happy to answer them for you and if you have any ideas for the future progress of Harp Guru then likewise, get in touch and we'll see where we end up.
+
+I'd be really grateful if you showed your support with a like and subscribe and if you're just here checking out the controls before you download Harp Guru then don't forget it's available on both Android and iOS so you can get your old mum on it too, why not.
+
+Have fun out there and I'll see you next time.
