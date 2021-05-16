@@ -1,0 +1,23 @@
+Octave segmentation isn't the first feature to draw people in to Harp Guru, in fact you might not even know it's there or what it's doing. See what's happening here. What's that all about? Well that's the octave segmentation feature and mastering when to use this will help you get the most out of the other features of Harp Guru so let's take a closer look.
+
+A traditional Richter tuned harp has 3 complete octaves on it, and depending on how you're playing it you might actually be dealing with 4 octaves, 2 complete and 2 partial.
+
+When you are learning a long riff you need to break it down in to manageable chunks, and then piece those chunks back together. When there's a difficult technique in a riff you isolate that technique and improve it enough to put it back in the context it came from. The same principle applies to studying the harmonica and Harp Guru offers octave splitting as a tool to support you in this.
+
+# When to use it
+
+The most basic example is when you are simply studying the harpface. Here we have the notes of a 2nd position major pentatonic highlighted. Well if you're new to this then it will make sense to just consider what we'd call the lower octave with the notes from the 2 hole draw up to the 6 hole blow. Hopefully it's clear that simply adding these octave segmentations does make it easier for the human brain to focus on the task at hand. Chunking like this also helps the brain identify patterns more reliably, for example we can already see that we're going to have a pretty easy time remembering the pattern to follow when we're ready to start including the middle octave at holes 6 to 8. it's just a U shape isn't it. That isn't so clear when we don't have the segmentation in place.
+
+When it comes to using Harp Guru as a headsup reference during improvisation, the segmentation can be a really powerful tool for encouraging you to venture across octaves constructively. We usually find that we're stronger in one octave than another and if you find yourself playing a little 2 or 3 note phrase in the lower octave, it can be really nice to be able to just glance to the right and see where those notes are in the next octave to repeat it up there. It's a great dynamic tool that and something we can struggle to do while our mental model is still developing. Giving yourself the opportunity to just pull such a move out before you're really ready can be a great step on the path to *becoming* ready, and a really big confidence boost and loads of fun too.
+
+When we come to quiz mode the segmentation can help ease us in to the task in 2 different ways. First of all we can choose to just consider a single octave, let's say the lower octave, and ignore the others, or perhaps start taking a stab at them but keep in mind that our goal is to be making improvements in the lower octave. The segmentation can help you stay focused on whether you are making improvements where you want to be. That's a subtle bit of psychology, but I've found it to be effective.
+
+The other way that it can help is that it simply is easier and much more effective to remember 3 or 4 chunks of patterns than to remember 1 big one. Remember the U shape we identified before, well that's our shortcut to identifying any major pentatonic degree in the middle register. You can just count your way round to the relevant number and the more you get the positive feedback of getting that right the more you'll be able to immediately associate the scale degree with exactly the right location and the U-shaped shortcut will just be a part of the many things your brain is using to model that chunk. It's really wonderful like that, your brain.
+
+# When to not use it
+
+So when might we *not* want to use octave segmentation. Well the first is that ultimately the harp isn't segmented like this, so as soon as you understand enough about a particular position or scale to remove the segmentation, it can be useful to do so. Removing segmentation in the quiz mode will step things up a level.
+
+Because the segmentation shifts the locations of the holes around, it can be disruptive to have segmentation on while performing comparisons between different harp setups. Take the example 
+
+Being able to consider each of those octaves independently of each other can be a great learning aid.
