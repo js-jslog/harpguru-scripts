@@ -16,8 +16,12 @@ The other way that it can help is that it simply is easier and much more effecti
 
 # When to not use it
 
-So when might we *not* want to use octave segmentation. Well the first is that ultimately the harp isn't segmented like this, so as soon as you understand enough about a particular position or scale to remove the segmentation, it can be useful to do so. Removing segmentation in the quiz mode will step things up a level.
+So when might we *not* want to use octave segmentation. Well the first is that ultimately the harp isn't segmented like this, so as soon as you understand enough about a particular position or scale to remove the segmentation, it can be useful to do so. Removing segmentation in the quiz mode will step things up a level. If you've stitched all of those patterns together in to a single block then you'll swim, if not then this is your chance.
 
-Because the segmentation shifts the locations of the holes around, it can be disruptive to have segmentation on while performing comparisons between different harp setups. Take the example 
+Because the segmentation shifts the locations of the holes around, it can be disruptive to have segmentation on while performing comparisons between different harp setups. Take the example I always use where we have 3 screens showing us the major pentatonic scale in 2nd 1st and 3rd positions which would be the positions to follow a 12 bar blues progression. Well it's much easier for us to compare what's going on across these positions on a given hole for example when the segmentation is off. Let's look at the 2 draw for example, in 2nd position it's the root, in 1st it's the 5th and in 3rd it's the 4th which means that on the 5 chord the 2 draw isn't even fulfilling a major pentatonic function, and you can draw your own conclusions from that but the point remains that if we had the octave segmentation on then this analysis would be much harder to perform.
+
+So that's a little dive in to what the octave segmentation feature is, what it's there for and some ideas for how to use it alongside the other features. If you wanted to see more explanation on the quiz mode or multi-page features we skipped over there then check out the other video's dedicated to those subjects which I'll like in the description as soon as they are made.
+
+Octave segmentation is just one of the completely unique features offered by Harp Guru so if you like what you see then prove it and go and download Harp Guru now from both the android and iOS stores. But before you do that give this video a like and subscribe to the channel. Then go get the app.
 
 Being able to consider each of those octaves independently of each other can be a great learning aid.
