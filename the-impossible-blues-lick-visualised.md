@@ -1,5 +1,5 @@
-This week Howard Levey released a video telling a story of the harmonica's strange & convenient affinity for certain sounds, how minor departures from those sounds
-*can* require a major rethink, and yet how many solutions are waiting for us in alternative positions.
+This week Howard Levey released a video telling a story of the harmonica's strange & convenient affinity for certain sounds, and how minor departures from those sounds
+*can* require a major rethink, but yet how many solutions are waiting for us in alternative positions.
 
 His story, I think, is intended to get us excited about the process of discovery rather than offer any kind of tutorial and that's why Howard, who is
 of course a master of shifting between positions without much thought, leaves the specifics of what he's playing as just a support to the story itself.
