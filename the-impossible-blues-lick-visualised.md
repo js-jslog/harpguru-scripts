@@ -4,7 +4,7 @@ This week Howard Levey released a video telling a story of the harmonica's stran
 His story, I think, is intended to get us excited about the process of discovery rather than offer any kind of tutorial and that's why Howard, who is
 of course a master of shifting between positions without much thought, leaves the specifics of what he's playing as just a support to the story itself.
 
-But still, we're all curious aren't we, so I've stuck Howard in a little window down in the right, and I'm just going to let him go and annotate what
+But still, we're all curious aren't we, so I've stuck Howard in a little window down in the right (pop), and I'm just going to let him go and annotate what
 he's playing using Harp Guru which will help you connect with the specific pros and cons that he's encountering in each position. The notes Howard is
 playing are all from the blues scale, but I'll unhighlight certain notes when they aren't relevant so that you can follow more easily.
 
