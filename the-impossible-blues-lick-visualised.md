@@ -8,7 +8,7 @@ But still, we're all curious aren't we, so I've stuck Howard in a little window 
 he's playing using Harp Guru which will help you connect with the specific pros and cons that he's encountering in each position. The notes Howard is
 playing are all from the blues scale, but I'll unhighlight certain notes when they aren't relevant so that you can follow more easily.
 
-He doesn't play *exactly* the same lick every time, and I'll include some written comments to clarify what's going on sometimes, but other than that
+Keep your eyes peeled for the odd comment I'll add over Harp Guru to be as clear as possible, but other than that
 and with thanks to Howard for his permission on this, it's over to you Mr Levey.
 
 ---
