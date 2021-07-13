@@ -14,11 +14,11 @@ and with thanks to Howard for his permission on this, it's over to you Mr Levey.
 ---
 
 Yea, and that's it apart from one potential point of confusion which I'll have to speculate on. Some of you might have noticed that when Howard was
-playing the riff on the Eb harp, he had to discard it because the composer wanted a scoop from the 1 down to the 7b and back up again. (cut to evidence)
+playing the riff on the Eb harp, he had to discard it because the composer wanted a scoop from the root down to the 7b and back up again. (cut to evidence)
 
-In the final version as you can see here on the B harp there is no clear scoop available from the 1 to the 7b. There are a couple of possible explanations.
-One is that even though there isn't a continuous scoop from the 1 to the 7b, there is a partial one between the 7 & 7b which might have been sufficient.
-The other explanation is that Howard mispoke and meant to say that the director wanted a scoop between the 1 & the 3b. The video looks like it was filmed
+In the final version as you can see here on the B harp there is no clear scoop available from the root to the 7b. There are a couple of possible explanations.
+One is that even though there isn't a continuous scoop from the root to the 7b, there is a partial one between the 7 & 7b which might have been sufficient.
+The other explanation is that Howard mispoke and meant to say that the director wanted a scoop between the 3b and the root on the way down. The video looks like it was filmed
 in a single take with minor cuts so such a mistake would be completely understandable and it doesn't actually detract from the original story at all,
 but in this context it needed addressing, because I know, as one of the types of people who would watch a video like this, that is just the kind of
 thing that I would want to know other people had noticed too.
