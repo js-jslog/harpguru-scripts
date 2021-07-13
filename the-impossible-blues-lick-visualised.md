@@ -14,7 +14,7 @@ and with thanks to Howard for his permission on this, it's over to you Mr Levey.
 ---
 
 Yea, and that's it apart from one potential point of confusion which I'll have to speculate on. Some of you might have noticed that when Howard was
-playing the riff on the Eb harp, he had to discard it because the director wanted a scoop from the 1 down to the 7b and back up again. (cut to evidence)
+playing the riff on the Eb harp, he had to discard it because the composer wanted a scoop from the 1 down to the 7b and back up again. (cut to evidence)
 
 In the final version as you can see here on the B harp there is no clear scoop available from the 1 to the 7b. There are a couple of possible explanations.
 One is that even though there isn't a continuous scoop from the 1 to the 7b, there is a partial one between the 7 & 7b which might have been sufficient.
