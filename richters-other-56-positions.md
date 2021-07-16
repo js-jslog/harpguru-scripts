@@ -36,6 +36,8 @@ Richter tuning was invented to give the player 3 things:
 
 That's all they had in mind, and that's all they needed to play absolutely banging German folk music at the time, which was in the Major or Ionian mode.
 
+# The revelation
+
 If the music they had been playing were in the Dorian mode then most likely they would have created this, where they achieve 3 things:
 
 1. A constantly available I chord triad, all the way along the blow row (which is now a minor triad as is appropriate for the Dorian mode)
@@ -46,3 +48,10 @@ So the goals of the Richter system are ambivolent to the mode that you're making
 There are many tunings that you can configure using the Richter system. All of the modes of the major scale at the very least.
 
 This is why we call our one the *major* diatonic. It is the ionian (or major) tuned Richter system.
+
+# The distractions
+
+Now this Dorian tuned Richter harp might look familiar, and that's because if you play all these notes in second position, it may now
+be obvious that this is what Lee Oscar & Seydel and others call a Natural Minor tuning. Now I'm not going to pretend that I don't
+understand their reasons for doing this. It much more directly says to people "hey, we know you play your blues in second position
+but you'd like to have some minor chords there so here's 
