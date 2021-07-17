@@ -55,3 +55,12 @@ Now this Dorian tuned Richter harp might look familiar, and that's because if yo
 be obvious that this is what Lee Oscar & Seydel and others call a Natural Minor tuning. Now I'm not going to pretend that I don't
 understand their reasons for doing this. It much more directly says to people "hey, we know you play your blues in second position
 but you'd like to have some minor chords there so here's 
+
+
+
+And if you have any doubts about whether it's legit to move from a major to a minor triad on
+The V chord as we would be doing when moving from 1st to 2nd position on this
+Mixolydian tuned Richter harp, just remember that sure while there are no rules in
+Music, we do at least know that this is common enough from all our I to V chord changes in
+The 12 bar blues where we typically will transition from mixolydian in second position to Dorian
+In 3rd position, where we can clearly see that a minor triad is part of the scale.
