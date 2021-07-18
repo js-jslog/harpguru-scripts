@@ -39,7 +39,7 @@ That's all they had in mind, and that's all they needed to play the absolutely b
 
 And this is where history & context play their role.
 
-If the music they had been playing were in the Dorian mode rather than the Ionian mode then most likely they would have created this instead, where they achieve the same 3 things:
+Because if the music they had been playing were in the Dorian mode rather than the Ionian mode then most likely they would have created this instead, where they achieve the same 3 things:
 
 1. A I chord triad, available all the way along the blow row (which is now a minor triad as is appropriate for the Dorian mode)
 2. A V chord triad in the lower register (which is also a minor triad because the next mode along from Dorian is Aeolian which is also minor - more on this later)
@@ -53,8 +53,11 @@ to what we have listed in this Richter section as Ionian Richter.
 
 And it's really interesting playing with the tunings to see how the modal scales are shifted relative to how you are familiar with playing them on the Ionian Richter.
 
-So on. Mixolydian Richter, playing on second position will get you a Dorian scale where as you know on an Ionian Richter you would be playing a mixolydian scale, and you
-have to go one position further to 3rd to get Dorian. And on a Lydian...
+So on Mixolydian Richter, playing in second position will get you a Dorian scale where as you know on an Ionian Richter you would be playing a mixolydian scale, and you
+have to go one position further to 3rd to get Dorian. And while you would need to play an Ionian Richter in 12th position to play a Lydian scale, you can of course do that
+in 1st position on a Lydian Richter, and you get to play Ionian (Major) in second position, which is the primary goal of what we call country tuning. Although you can see
+that country tuning makes a decision to leave the 7b on the 9draw which does have its benefits. Still you can see that while country is commonly described as a major diatonic
+with a raised 5draw, it could also be described as as Lydian Richter with a flattened 9draw.
 
 # The distractions
 
