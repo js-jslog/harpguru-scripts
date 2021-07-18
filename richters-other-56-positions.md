@@ -75,6 +75,12 @@ just the scale you play. Each position contains textural, chordal and tonal char
 And that's why, if we accept that there are 8 possible tunings within the Richter system as we have here, and 8 positions for normal people to play on each,
 then there are 64 unique sounds to explore.
 
+We should all have a soft spot for Richter. It's scope has vastly outstripped it's ambition, and I hope I've shown that not only applies to the achievements
+of positional playing, but also to it's unacknowledged fingerprint in the body of alternate tunings and the as yet unexplored possibilities in the numerous
+permutations therein.
+
+Richter *is not* the only system, and everything I've said here is as applicable to any other, like Circular as we've also got in our list. 
+
 -----
 
 2nd position is king, but not becuase it plays
