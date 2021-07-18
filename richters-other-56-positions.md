@@ -1,14 +1,16 @@
 # Intro
 
-Noone likes clickbait so I'll get to the point on this one.
+Noone likes clickbait so I'll get to the point. I think you'll be pleasantly surprised.
 
 We are looking at Richter tuning through a keyhole, and we're not seeing the full picture.
 
-Some other parts of the picture are known to us, but by another name so the full picture
+We have seen other parts of the picture, but only through more keyholes so the picture
 remains fragmented and confused.
 
-Other parts are so undocumented & unexplored that this is the only description of this type
-that I'm aware of. I will not be surprised to learn that there are others.
+Other parts are so unexplored that this video is the first time I've seen them documented
+let alone related back to Richter for the full picture. The full Richter picture.
+
+I will not be surprised to learn that there are others, and I'd love to see them.
 
 If this sounds like a conspiricy theory then that's deliberate. But what I'll show you
 here won't have you questioning what you knew before so much as seeing it all with much
