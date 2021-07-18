@@ -66,7 +66,19 @@ And if we play the same notes in 2nd position, that's going to be the Aeolian sc
 most people in the harp speaking world call Natural Minor tuning because when they set it up they are only thinking about paying it in 2nd position.
 
 And the list goes on. What I've called Mixolydian Richter here is often called Dorian cross, because people are interested in playing Dorian in 2nd
-position (cross harp). Naming your tuning based on the position you're primarily configuring it for is as sensible as anything else. Let's not pretend that Natural Minor
+position (cross harp). And I'm not taking a short at anyone here. Naming your tuning based on the position you're configuring it for is as sensible as anything else. Let's not pretend that 1st position
+is of as much interest to most people as 2nd position. But let's recognise that the isn't a 
+
+I plan to make another video
+
+2nd position Mixolydian is not the same thing as 3rd position Mixolydian. And that's why I say there are 56 more positions in the Richter system that you probably haven't explored.
+
+So you can play 2nd position Mixolydian, and 3rd position
+
+, regardless of the mode represented there. There's another video to be made explaining why 2nd position *is* the blues
+and why it isn't 
+
+Natural Minor
 harps are going to be of as much interest to people looking to play the Dorian scale just because it's there. Modern harmonica playing is still predominantly interested
 in the blues and when it comes to the blues, second position is king. Second position more than Mixolydian. I'll do another video explaining why that is
 
