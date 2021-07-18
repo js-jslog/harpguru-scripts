@@ -1,3 +1,5 @@
+# Richter offers more than anyone knows
+
 # Intro
 
 Noone likes clickbait so I'll get to the point. I think you'll be pleasantly surprised.
@@ -48,8 +50,7 @@ Because if the music they had been playing were in the Dorian mode rather than t
 So the goals of the Richter system are ambivolent to the mode that you're making the tuning for, and that's why I call Richter a system rather than a tuning.
 There are many tunings that you can configure using the Richter system. All of the modes of the major scale at the very least.
 
-This is why we call our one the *major* diatonic. It is the ionian (or major) tuned Richter system. And that's why the major diatonic we commonly know is identical
-to what we have listed in this Richter section as Ionian Richter.
+This is why we call our one the *major* diatonic. It is the ionian (or major) tuned Richter system. And that's why the major diatonic we commonly know is identical to what we have listed in this Richter section as Ionian Richter.
 
 And it's really interesting playing with the tunings to see how the modal scales are shifted relative to how you are familiar with playing them on the Ionian Richter.
 
@@ -66,7 +67,27 @@ And if we play the same notes in 2nd position, that's going to be the Aeolian sc
 most people in the harp speaking world call Natural Minor tuning because when they set it up they are only thinking about paying it in 2nd position.
 
 And the list goes on. What I've called Mixolydian Richter here is often called Dorian cross, because people are interested in playing Dorian in 2nd
-position (cross harp). And I'm not taking a short at anyone here. Naming your tuning based on the position you're configuring it for is as sensible as anything else. Let's not pretend that 1st position
+position (cross harp). And I'm not taking a shot at anyone here. Naming your tuning based on the position you're configuring it for makes a lot of sense.
+
+But one thing is clear from all of this. Positional playing is about more than just the scales made available. And that's because musical character is about more than
+just the scale you play. Each position contains textural, chordal and tonal characteristics, both opportunities and quirks. Dorian in 6th position will not sound the same as Dorain in 4th position, and this is why I love the harmonica. It's an instrument of perverted specialisation, and every perversion is it's own specialisation.
+
+And that's why, if we accept that there are 8 possible tunings within the Richter system as we have here, and 8 positions for normal people to play on each,
+then there are 64 unique sounds to explore.
+
+-----
+
+2nd position is king, but not becuase it plays
+a Mixolydian scale, and all the other positions, especially 12 through to 6 where the root notes don't require overblows or overdraws have their own benefits
+and quirks that give them value and reason to exist. Dorian in 6th position will not sound the same as Dorian in 4th position, because there's more to music than just scales. There's a whole video to
+make on that subject but the point is unquestionable, and consequently, if we accept that the Richter system can produce 8 different tunings as we've got here,
+and that there are 8 different positions that normal people can play, then that makes 64 positions and unique sounds for us to explore within the Richter tuning system
+and thats 56 more than the 8 that most of us are aware of.
+
+This is why I love the harmonica. It's such a specialised instrument, and the consequence of that is that  
+
+Lets not pretend that people only 
+
 is of as much interest to most people as 2nd position. But let's recognise that the isn't a 
 
 I plan to make another video
