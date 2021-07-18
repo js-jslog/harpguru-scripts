@@ -62,7 +62,18 @@ for most of us is pretty important for being able to play major scale tunes in s
 7nautal from the 9blowbend and you can get the scoop there too which is nice. Still some people choose to raise the 9draw too, and then you have a Lydian Richter.
 
 And theres more. Let's look at the Dorian Richter again. If I've not lost you already then you'll know that in first position we can play the Dorian scale like this.
-And if we play the same notes in 2nd position, that's going to be the Aeolian scale, otherwise known as natural minor.
+And if we play the same notes in 2nd position, that's going to be the Aeolian scale, otherwise known as natural minor. This *is* the tuning which Seydel, Lee Oscar and
+most people in the harp speaking world call Natural Minor tuning because when they set it up they are only thinking about paying it in 2nd position.
+
+And the list goes on. What I've called Mixolydian Richter here is often called Dorian cross, because people are interested in playing Dorian in 2nd
+position (cross harp). Naming your tuning based on the position you're primarily configuring it for is as sensible as anything else. Let's not pretend that Natural Minor
+harps would be *just* as useful and fun playing Dorian in first position as they are playing Aeolian in 2nd. 
+
+
+
+What I want to highlight here is that the Richter Tuning system not only means more than just a perversion
+from Ionian to Mixolydian, it also means more than just the further perversion to Dorian and the other modes beyond. It in fact lays out a system with such a solid foundation that
+it can be prevented in all those ways from 8 different 
 
 # The distractions
 
