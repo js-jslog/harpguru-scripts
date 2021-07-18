@@ -19,15 +19,13 @@ on a Richter tuned harp, keep listening.
 
 # The basics
 
-We'll have to assume some knowledge of the modes of the major scale and how they apply to
-your standard major diatonic richter tuned harp. If you need a primer on that then there
-are *lots* of great resources some of which I'll recommend by linking in the description
-including a couple of my older videos on exactly what the modes look like in the different
-positions. Harp Guru is all about getting a good *look* at these otherwise difficult to
-visulalise ideas.
+You'll need to know about the modes of the major scale. What they are, how they relate to each
+other, how they relate to the circle of fifths and how positions are useful tools for changing
+modes on the harmonica. I've linked some resources in the description including some of my own if
+you need a refresher.
 
 Something which is probably well known to a lot of you, but we can't skip over here is a definition of the Richter tuning system.
-Even if you think you know this, just stick around, it'll get novel quick.
+Even if you think you know this, just stick around, it'll get novel real quick.
 
 Richter tuning was invented to give the player 3 things:
 
