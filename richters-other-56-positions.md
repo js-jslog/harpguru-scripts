@@ -12,8 +12,8 @@ let alone related back to Richter for the full picture. The full Richter picture
 
 I will not be surprised to learn that there are others, and I'd love to see them.
 
-If this sounds like a conspiricy theory then that's deliberate. But what I'll show you
-here won't have you questioning what you knew before so much as seeing it all with much
+If this sounds like a conspiricy theory then that's deliberate, actually. But what I'll show
+you won't have you questioning what you knew before so much as seeing it all with much
 greater clarity, so if you want to know why there are 56 more positions for you to study
 on a Richter tuned harp, keep listening.
 
@@ -31,26 +31,32 @@ Even if you think you know this, just stick around, it'll get novel quick.
 
 Richter tuning was invented to give the player 3 things:
 
-1. A constantly available I chord triad, all the way along the blow row
+1. A I chord triad, available all the way along the blow row
 2. A V chord triad in the lower register
 3. A full scale available in the middle and upper register (with a compromise being made on the 10 hole to prioritise the I chord triad over the availability of the 7th scale degree)
 
-That's all they had in mind, and that's all they needed to play the absolutely banging Major mode German folk music of the time.
+That's all they had in mind, and that's all they needed to play the absolutely banging Ionaian mode German folk music of the time.
 
 # The revelation
 
 And this is where history & context play their role.
 
-If the music they had been playing were in the Dorian mode rather than the Ionian mode then most likely they would have created this instead, where they achieve 3 things:
+If the music they had been playing were in the Dorian mode rather than the Ionian mode then most likely they would have created this instead, where they achieve the same 3 things:
 
-1. A constantly available I chord triad, all the way along the blow row (which is now a minor triad as is appropriate for the Dorian mode)
-2. A V chord triad in the lower register (which is also a minor triad because the 5, 7b & 2 of the C Dorian scale is a G minor triad)
+1. A I chord triad, available all the way along the blow row (which is now a minor triad as is appropriate for the Dorian mode)
+2. A V chord triad in the lower register (which is also a minor triad because the next mode along from Dorian is Aeolian which is also minor - more on this later)
 3. A full dorian scale available in the middle and upper register (with the compromise we saw before)
 
 So the goals of the Richter system are ambivolent to the mode that you're making the tuning for, and that's why I call Richter a system rather than a tuning.
 There are many tunings that you can configure using the Richter system. All of the modes of the major scale at the very least.
 
-This is why we call our one the *major* diatonic. It is the ionian (or major) tuned Richter system.
+This is why we call our one the *major* diatonic. It is the ionian (or major) tuned Richter system. And that's why the major diatonic we commonly know is identical
+to what we have listed in this Richter section as Ionian Richter.
+
+And it's really interesting playing with the tunings to see how the modal scales are shifted relative to how you are familiar with playing them on the Ionian Richter.
+
+So on. Mixolydian Richter, playing on second position will get you a Dorian scale where as you know on an Ionian Richter you would be playing a mixolydian scale, and you
+have to go one position further to 3rd to get Dorian. And on a Lydian...
 
 # The distractions
 
