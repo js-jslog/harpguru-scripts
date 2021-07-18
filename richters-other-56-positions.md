@@ -54,6 +54,14 @@ This is why we call our one the *major* diatonic. It is the ionian (or major) tu
 
 And it's really interesting playing with the tunings to see how the modal scales are shifted relative to how you are familiar with playing them on the Ionian Richter.
 
+And if you have any doubts about whether it's legit to move from a major to a minor triad on
+The V chord as we would be doing when moving from 1st to 2nd position on this
+Mixolydian tuned Richter harp, just remember that in all our I to V chord changes in
+The 12 bar blues where we will typically transition from mixolydian in second position to Dorian
+In 3rd position, where we can clearly see that we move from a major to a minor triad. There are
+no *rules* in music, but it's reassuring to know that we've already made something work in one
+context when deciding whether we think it will work in another.
+
 So on Mixolydian Richter, playing in second position will get you a Dorian scale where as you know on an Ionian Richter you would be playing a mixolydian scale, and you
 have to go one position further to 3rd to get Dorian. And while you would need to play an Ionian Richter in 12th position to play a Lydian scale, you can of course do that
 in 1st position on a Lydian Richter, and you get to play Ionian (Major) in second position, which is the primary goal of what we call country tuning.
@@ -123,9 +131,4 @@ but you'd like to have some minor chords there so here's
 
 
 
-And if you have any doubts about whether it's legit to move from a major to a minor triad on
-The V chord as we would be doing when moving from 1st to 2nd position on this
-Mixolydian tuned Richter harp, just remember that sure while there are no rules in
-Music, we do at least know that this is common enough from all our I to V chord changes in
-The 12 bar blues where we typically will transition from mixolydian in second position to Dorian
-In 3rd position, where we can clearly see that a minor triad is part of the scale.
+
