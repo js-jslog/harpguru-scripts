@@ -24,9 +24,8 @@ including a couple of my older videos on exactly what the modes look like in the
 positions. Harp Guru is all about getting a good *look* at these otherwise difficult to
 visulalise ideas.
 
-Something which is probably just as well known to a lot of you, but is also something we
-can't afford to skip here is a definition of the Richter tuning system. Even if you think
-you know this, just stick around to make sure we're on the same page.
+Something which is probably well known to a lot of you, but we can't skip over here is a definition of the Richter tuning system.
+Even if you think you know this, just stick around, it'll get novel quick.
 
 Richter tuning was invented to give the player 3 things:
 
@@ -34,11 +33,13 @@ Richter tuning was invented to give the player 3 things:
 2. A V chord triad in the lower register
 3. A full scale available in the middle and upper register (with a compromise being made on the 10 hole to prioritise the I chord triad over the availability of the 7th scale degree)
 
-That's all they had in mind, and that's all they needed to play absolutely banging German folk music at the time, which was in the Major or Ionian mode.
+That's all they had in mind, and that's all they needed to play the absolutely banging Major mode German folk music of the time.
 
 # The revelation
 
-If the music they had been playing were in the Dorian mode then most likely they would have created this, where they achieve 3 things:
+And this is where history & context play their role.
+
+If the music they had been playing were in the Dorian mode rather than the Ionian mode then most likely they would have created this instead, where they achieve 3 things:
 
 1. A constantly available I chord triad, all the way along the blow row (which is now a minor triad as is appropriate for the Dorian mode)
 2. A V chord triad in the lower register (which is also a minor triad because the 5, 7b & 2 of the C Dorian scale is a G minor triad)
