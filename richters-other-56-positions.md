@@ -55,9 +55,14 @@ And it's really interesting playing with the tunings to see how the modal scales
 
 So on Mixolydian Richter, playing in second position will get you a Dorian scale where as you know on an Ionian Richter you would be playing a mixolydian scale, and you
 have to go one position further to 3rd to get Dorian. And while you would need to play an Ionian Richter in 12th position to play a Lydian scale, you can of course do that
-in 1st position on a Lydian Richter, and you get to play Ionian (Major) in second position, which is the primary goal of what we call country tuning. Although you can see
-that country tuning makes a decision to leave the 7b on the 9draw which does have its benefits. Still you can see that while country is commonly described as a major diatonic
-with a raised 5draw, it could also be described as as Lydian Richter with a flattened 9draw.
+in 1st position on a Lydian Richter, and you get to play Ionian (Major) in second position, which is the primary goal of what we call country tuning.
+
+Let's look at country tuning for a minute. This is commonly described as a major diatonic with a raised 5draw, making the 7natural accessible without an overblow, which
+for most of us is pretty important for being able to play major scale tunes in second position. The 9draw is often left as a 7b because it's actually not too hard to get
+7nautal from the 9blowbend and you can get the scoop there too which is nice. Still some people choose to raise the 9draw too, and then you have a Lydian Richter.
+
+And theres more. Let's look at the Dorian Richter again. If I've not lost you already then you'll know that in first position we can play the Dorian scale like this.
+And if we play the same notes in 2nd position, that's going to be the Aeolian scale, otherwise known as natural minor.
 
 # The distractions
 
