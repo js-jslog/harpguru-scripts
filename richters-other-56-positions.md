@@ -20,13 +20,13 @@ other, how they relate to the circle of fifths and how positions are useful tool
 modes on the harmonica. I've linked some resources in the description including some of my own if
 you need a refresher.
 
-Something which is probably well known to a lot of you, but we can't skip over here is a definition of the Richter tuning system.
+Something which might be well known to you, but we can't skip over here is a definition of the Richter tuning system.
 Even if you think you know this, just stick around, it'll get novel real quick.
 
 Richter tuning was invented to give the player 3 things:
 
 1. A I chord triad, available all the way along the blow row
-2. A V chord triad in the lower register
+2. A V chord triad in the lower register (when we change to second position, we see that these notes are a triad chord on the V chord)
 3. A full scale available in the middle and upper register (with a compromise being made on the 10 hole to prioritise the I chord triad over the availability of the 7th scale degree)
 
 That's all they had in mind, and that's all they needed to play the absolutely banging Ionaian mode German folk music of the time. If you need more detail on what's been
