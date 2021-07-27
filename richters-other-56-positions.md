@@ -69,7 +69,8 @@ But one thing is clear from all of this. Positional playing is about more than j
 just the scale you play. Each position contains textural, chordal and tonal characteristics, both opportunities and quirks. Dorian in 6th position will not sound the same as Dorain in 4th position, and this is why I love the harmonica. It's an instrument of perverted specialisation, and every perversion is it's own specialisation.
 
 So to return to our clickbait title, that's why, if we accept that there are 8 possible tunings within the Richter system as we have here,
-and 8 positions for normal people to play on each, then there are 64 unique sounds to explore within this one humble system. And isn't that a marvelous thought.
+and 8 positions for normal people to play on each, then there are 64 unique sounds to explore within this one humble system. 56 more than the 8 max
+you'd alredy discovered. And isn't that a marvelous thought.
 
 We should all have a soft spot for Richter. It's scope has vastly outstripped it's ambition, and I hope I've shown that not only applies to the achievements
 of positional playing, but also to it's unacknowledged fingerprint in the body of alternate tunings and the as yet unexplored possibilities in the numerous
