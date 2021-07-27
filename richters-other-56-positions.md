@@ -51,14 +51,15 @@ And it's really interesting to play with these tunings to see how the modal scal
 
 What I mean by this is that we all know that 2nd position on an Ionian Richter is in the Mixolydian mode. And we also know that 3rd position on the Ionian Richter is Dorian mode.
 
-Well on a Mixolydian Richter, where 1st position is Mixolydian, 12th position is Ionian, you go back down the list to Ionian, & 2nd position again moving up from Mixolydian is Dorian. Dorian is 3rd position on the Ionian Richter and 2nd position on the Mixolydian Richter, and it would of course be 1st position on the Dorian Richter. So you see the position to mode mapping is shifted up one each time.
+Well on a Mixolydian Richter, where 1st position is Mixolydian (you see we wouldn't be playing the B which is a 7th scale degree anymore, we would be playing the Bb which is a
+7b, making mixolydian), 12th position is Ionian, you go back down the list to Ionian, & 2nd position again moving up from Mixolydian is Dorian. Dorian is 3rd position on the Ionian Richter and 2nd position on the Mixolydian Richter, and it would of course be 1st position on the Dorian Richter. So you see the position to mode mapping is shifted up one each time.
 
-Let's continue looking at the Dorian Richter here. If you're sharp then you'll know that in first position we can play the Dorian scale like this.
+Let's continue looking at the Dorian Richter that we setup as our hypothetical Dorian Germa folk instrument. If you're sharp then you'll know that in first position we can play the Dorian scale like we already have here.
 And if we play the same notes in 2nd position, that's going to be the Aeolian scale, otherwise known as natural minor. It turns out that this *is* the tuning which Seydel, Lee Oscar and
-most people in the harp speaking world call Natural Minor tuning because when they set it up they are only thinking about paying it in 2nd position.
+most people in the harp speaking world call Natural Minor tuning because when they set it up they are only thinking about playing it in 2nd position.
 
 The same is the case with country tuning. Country tuning has a couple of variations but the common theme is that we want to be able to play an Ionian scale in 2nd position. Well
-that's exactly what the Lydian Richter will give you. Country music makes use of the flat 3 and flat 5 along with the bending we're used to in 2nd position which is why people
+that's exactly what the Lydian Richter will give you. It's a big jump from Dorian to Lydian so excuse me while I tidy these up, and then let's change to 2nd position to be using the Ionian mode. Country music makes use of the flat 3 and flat 5 along with the bending we're used to in 2nd position which is why people
 favour this over playing an Ionian Richter in 1st position.
 
 And the list goes on. What I've called Mixolydian Richter here is often called Dorian cross, because people are interested in playing Dorian in 2nd
@@ -74,9 +75,13 @@ We should all have a soft spot for Richter. It's scope has vastly outstripped it
 of positional playing, but also to it's unacknowledged fingerprint in the body of alternate tunings and the as yet unexplored possibilities in the numerous
 permutations therein.
 
-Richter *is not* the only system, and everything I've said here is as applicable to any other, like Circular as we've also got in our list. But that's a meager
-disclaimer. Richter is even more ubiquitous than you knew, and it's laughing at your 2 position repetoir!
+Richter *is not* the only system, and everything I've said here is as applicable to any other, like Spiral as we've also got in our list. But that's a meager
+disclaimer. Richter is even more ubiquitous than you knew. Even Howard Levy has some work to do, and it's laughing at your 2 position repetoir!
 
+---
+
+I was using Harp Guru to illustrate the points made in this video. Whether you're a beginner or even a professional player, it is bound to hold the key to
+demystifying some element of your harmonicas, even secrets you had no incling existed. Like what we've seen today.
 
 ---
 
