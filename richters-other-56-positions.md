@@ -6,7 +6,7 @@ Richter isn't what you think it is! I mean it is what you think it is, but it's 
 
 We've been looking at Richter tuning through a keyhole, and we're not seeing the full picture.
 
-We have seen other parts of the picture, but only through more keyholes so the picture
+You will have seen other parts of the picture, but only through more keyholes so the picture
 stays fragmented and confused.
 
 Other parts are completely uncharted. So today I want to give you the full picture on Richter, the
@@ -15,19 +15,19 @@ not even considered before. I know that doesn't sound possible. That's why it's 
 
 # The basics
 
-For this to make sense you'll need to know about the modes of the major scale. What they are, how they relate to each
+For this to make sense you'll need at least a vague understanding of the modes of the major scale. What they are, how they relate to each
 other, how they relate to the circle of fifths and how positions are useful tools for changing
 modes on the harmonica. I've linked some resources in the description including some of my own if
-you need a refresher.
+you need a refresher. This video's only 5 minutes long so why not stick around and see how you go.
 
-Something which might be well known to you, but we can't skip over here is a definition of the Richter tuning system.
+Something which might be well known to you already, but we can't skip over here is a definition of the Richter tuning system.
 Even if you think you know this, just stick around, it'll get novel real quick.
 
 Richter tuning was invented to give the player 3 things:
 
 1. A I chord triad, available all the way along the blow row
 2. A V chord triad in the lower register (when we change to second position, we see that these notes are a triad chord on the V chord)
-3. A full scale available in the middle and upper register (with a compromise being made on the 10 hole to prioritise the I chord triad over the availability of the 7th scale degree)
+3. And returning to 1st position. A full scale available in the middle and upper register (with a compromise being made on the 10 hole to prioritise the I chord triad over the availability of the 7th scale degree)
 
 That's all they had in mind, and that's all they needed to play the absolutely banging Ionaian mode German folk music of the time. If you need more detail on what's been
 said there then look to the description again for resources explaining this grounding concept. We're moving on to the revelations.
@@ -47,11 +47,38 @@ There are many tunings that you can configure using the Richter system. All of t
 
 This is why we call our one the *major* diatonic. It is the ionian (or major) tuned Richter system. And that's why the major diatonic we commonly know is identical to what we have listed in this Richter section as Ionian Richter.
 
-And it's really interesting playing with the tunings to see how the modal scales are shifted relative to how you are familiar with playing them on the Ionian Richter.
+And it's really interesting to play with these tunings to see how the modal scales are shifted relative to how you are familiar with playing them on the Ionian Richter.
 
 What I mean by this is that we all know that 2nd position on an Ionian Richter is in the Mixolydian mode. And we also know that 3rd position on the Ionian Richter is Dorian mode.
 
-Well on a Mixolydian Richter, where 1st position is Mixolydian, 12th position is Ionian & 2nd position is Dorian. So you see the position to mode mapping is shifted up one.
+Well on a Mixolydian Richter, where 1st position is Mixolydian, 12th position is Ionian, you go back down the list to Ionian, & 2nd position again moving up from Mixolydian is Dorian. Dorian is 3rd position on the Ionian Richter and 2nd position on the Mixolydian Richter, and it would of course be 1st position on the Dorian Richter. So you see the position to mode mapping is shifted up one each time.
+
+Let's continue looking at the Dorian Richter here. If you're sharp then you'll know that in first position we can play the Dorian scale like this.
+And if we play the same notes in 2nd position, that's going to be the Aeolian scale, otherwise known as natural minor. It turns out that this *is* the tuning which Seydel, Lee Oscar and
+most people in the harp speaking world call Natural Minor tuning because when they set it up they are only thinking about paying it in 2nd position.
+
+The same is the case with country tuning. Country tuning has a couple of variations but the common theme is that we want to be able to play an Ionian scale in 2nd position. Well
+that's exactly what the Lydian Richter will give you. Country music makes use of the flat 3 and flat 5 along with the bending we're used to in 2nd position which is why people
+favour this over playing an Ionian Richter in 1st position.
+
+And the list goes on. What I've called Mixolydian Richter here is often called Dorian cross, because people are interested in playing Dorian in 2nd
+position (cross harp). And I'm not taking a shot at anyone here. Naming your tuning based on the position you're configuring it for makes a lot of sense.
+
+But one thing is clear from all of this. Positional playing is about more than just the scales made available. And that's because musical character is about more than
+just the scale you play. Each position contains textural, chordal and tonal characteristics, both opportunities and quirks. Dorian in 6th position will not sound the same as Dorain in 4th position, and this is why I love the harmonica. It's an instrument of perverted specialisation, and every perversion is it's own specialisation.
+
+So to return to our clickbait title, that's why, if we accept that there are 8 possible tunings within the Richter system as we have here,
+and 8 positions for normal people to play on each, then there are 64 unique sounds to explore within this one humble system. And isn't that a marvelous thought.
+
+We should all have a soft spot for Richter. It's scope has vastly outstripped it's ambition, and I hope I've shown that not only applies to the achievements
+of positional playing, but also to it's unacknowledged fingerprint in the body of alternate tunings and the as yet unexplored possibilities in the numerous
+permutations therein.
+
+Richter *is not* the only system, and everything I've said here is as applicable to any other, like Circular as we've also got in our list. But that's a meager
+disclaimer. Richter is even more ubiquitous than you knew, and it's laughing at your 2 position repetoir!
+
+
+---
 
 And if you have any doubts about whether it's legit to move from a major to a minor triad on
 The V chord as we would be doing when moving from 1st to 2nd position on this
@@ -65,28 +92,10 @@ So on Mixolydian Richter, playing in second position will get you a Dorian scale
 have to go one position further to 3rd to get Dorian. And while you would need to play an Ionian Richter in 12th position to play a Lydian scale, you can of course do that
 in 1st position on a Lydian Richter, and you get to play Ionian (Major) in second position, which is the primary goal of what we call country tuning.
 
-Let's look at country tuning for a minute. This is commonly described as a major diatonic with a raised 5draw, making the 7natural accessible without an overblow, which
-for most of us is pretty important for being able to play major scale tunes in second position. The 9draw is often left as a 7b because it's actually not too hard to get
-7nautal from the 9blowbend and you can get the scoop there too which is nice. Still some people choose to raise the 9draw too, and then you have a Lydian Richter.
 
-And theres more. Let's look at the Dorian Richter again. If I've not lost you already then you'll know that in first position we can play the Dorian scale like this.
-And if we play the same notes in 2nd position, that's going to be the Aeolian scale, otherwise known as natural minor. This *is* the tuning which Seydel, Lee Oscar and
-most people in the harp speaking world call Natural Minor tuning because when they set it up they are only thinking about paying it in 2nd position.
 
-And the list goes on. What I've called Mixolydian Richter here is often called Dorian cross, because people are interested in playing Dorian in 2nd
-position (cross harp). And I'm not taking a shot at anyone here. Naming your tuning based on the position you're configuring it for makes a lot of sense.
 
-But one thing is clear from all of this. Positional playing is about more than just the scales made available. And that's because musical character is about more than
-just the scale you play. Each position contains textural, chordal and tonal characteristics, both opportunities and quirks. Dorian in 6th position will not sound the same as Dorain in 4th position, and this is why I love the harmonica. It's an instrument of perverted specialisation, and every perversion is it's own specialisation.
 
-And that's why, if we accept that there are 8 possible tunings within the Richter system as we have here, and 8 positions for normal people to play on each,
-then there are 64 unique sounds to explore.
-
-We should all have a soft spot for Richter. It's scope has vastly outstripped it's ambition, and I hope I've shown that not only applies to the achievements
-of positional playing, but also to it's unacknowledged fingerprint in the body of alternate tunings and the as yet unexplored possibilities in the numerous
-permutations therein.
-
-Richter *is not* the only system, and everything I've said here is as applicable to any other, like Circular as we've also got in our list. 
 
 -----
 
