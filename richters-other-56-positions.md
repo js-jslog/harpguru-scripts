@@ -45,7 +45,7 @@ Because if the music those funky Germans had been playing were in the Dorian mod
 So the goals of the Richter system are ambivolent to the mode that you're making the tuning for, and that's why I call Richter a system rather than a tuning.
 There are many tunings that you can configure using the Richter system. All of the modes of the major scale at the very least.
 
-This is why we call our one the *major* diatonic. It is the ionian (or major) tuned Richter system. And that's why the major diatonic we commonly know is identical to what we have listed in this Richter section as Ionian Richter.
+This is why we call our one the *major* diatonic. It is the ionian (or major) tuned Richter system. And that's why the major diatonic we commonly know is identical to what we have listed in this Richter section as Ionian Richter. You see the layout didn't change at all.
 
 And it's really interesting to play with these tunings to see how the modal scales are shifted relative to how you are familiar with playing them on the Ionian Richter.
 
@@ -56,7 +56,7 @@ Well on a Mixolydian Richter, where 1st position is Mixolydian (you see we would
 
 Let's continue looking at the Dorian Richter that we setup as our hypothetical Dorian German folk instrument. If you're sharp then you'll know that in first position we can play the Dorian scale like we already have here.
 And if we play the same notes in 2nd position, that's going to be the Aeolian scale, otherwise known as natural minor. It turns out that this *is* the tuning which Seydel, Lee Oscar and
-most people in the harp speaking world call Natural Minor tuning because when they set it up they are only thinking about playing it in 2nd position.
+most people in the harp speaking world call Natural Minor tuning because when they set it up they are only thinking about playing it in 2nd position. See again the layout hasn't changed. Let's just change it back to Dorain Richter to stay on track with the naming.
 
 The same is the case with country tuning. Country tuning has a couple of variations but the common theme is that we want to be able to play an Ionian scale in 2nd position. Well
 that's exactly what the Lydian Richter will give you. It's a big jump from Dorian to Lydian so excuse me while I tidy these up, and then we'll see that since we're already in 2nd position we're playing the Ionian (or Major) mode. Country music makes use of the flat 3 and flat 5 along with the bending we're used to in 2nd position which is why people
