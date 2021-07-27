@@ -77,7 +77,7 @@ of positional playing, but also to it's unacknowledged fingerprint in the body o
 permutations therein.
 
 Richter *is not* the only system, and everything I've said here is as applicable to any other, like Spiral as we've also got in our list. But that's a meager
-disclaimer. Richter is even more ubiquitous than you knew. Even Howard Levy still has some work to do, and Richter's laughing at your 3 position repetoir!
+concession. Richter is even more ubiquitous than you knew. Even Howard Levy still has some work to do, and Richter's laughing at you and your 3 position repetoir!
 
 ---
 
