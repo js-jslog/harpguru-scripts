@@ -23,6 +23,8 @@ you need a refresher. This video's only 5 minutes long so why not stick around a
 Something which might be well known to you already, but we can't skip over here is a definition of the Richter tuning system.
 Even if you think you know this, just stick around, it'll get novel real quick.
 
+Let's just clear down this harp face so we have a blank canvas Richter tuned harp in first position. Ok.
+
 Richter tuning was invented to give the player 3 things:
 
 1. A I chord triad, available all the way along the blow row
