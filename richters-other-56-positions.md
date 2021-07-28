@@ -47,7 +47,7 @@ Because if the music those funky Germans had been playing were in the Dorian mod
 So the goals of the Richter system are ambivolent to the mode that you're making the tuning for, and that's why I call Richter a system rather than a tuning.
 There are many tunings that you can configure using the Richter system. All of the modes of the major scale at the very least.
 
-This is why we call our one the *major* diatonic. It is the ionian (or major) tuned Richter system. And that's why the major diatonic we commonly know is identical to what we have listed in this Richter section as Ionian Richter. You see the layout didn't change at all.
+Which leads us to our first revolation. This is why we call our one (this one) the *major* diatonic. It is the ionian (or major) tuned Richter system. And that's why the major diatonic we commonly know is identical to what we have listed in this Richter section as Ionian Richter. You see the layout didn't change at all.
 
 And it's really interesting to play with these tunings to see how the modal scales are shifted relative to how you are familiar with playing them on the Ionian Richter.
 
