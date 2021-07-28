@@ -29,7 +29,7 @@ Richter tuning was invented to give the player 3 things:
 
 1. A I chord triad, available all the way along the blow row
 2. A V chord triad in the lower register (when we change to second position, we see that these notes are a triad chord on the V chord)
-3. And returning to 1st position. A full scale available in the middle and upper register (with a compromise being made on the 10 hole to prioritise the I chord triad over the availability of the 7th scale degree)
+3. And returning to 1st position. A full scale available in the middle and upper register, and that's a Major or Ionian scale. (with a compromise being made on the 10 hole to prioritise the I chord triad over the availability of the 7th scale degree)
 
 That's all they had in mind, and that's all they needed to play the absolutely banging Ionaian mode German folk music of the time. If you need more detail on what's been
 said there then look to the description again for resources explaining this grounding concept. We're moving on to the revelations.
