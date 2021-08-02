@@ -71,8 +71,8 @@ position (cross harp). You see we're still in 2nd position. And I'm not taking a
 But one thing is clear from all of this. Positional playing is about more than just the scales made available. And that's because musical character is about more than
 just the scale you play. Each position contains textural, chordal and tonal characteristics, both opportunities and quirks. And this is why I love the harmonica. It's an instrument of perverted specialisation, and every perversion is it's own specialisation.
 
-So to return to our clickbait title, that's why, if we accept that there are 8 possible tunings within the Richter system as we have here,
-and 8 positions for normal people to play on each, then there are 64 unique sounds to explore within this one humble system. 56 more than the 8 max
+So to return to our clickbait title, that's why, if we accept that there are 7 major modal tunings within the Richter system as we have here,
+and 7 positions for normal people to play on each, then there are 49 unique sounds to explore within this one humble system. 42 more than the 7 max
 you'd alredy discovered. And isn't that a marvelous thought.
 
 We should all have a soft spot for Richter. It's scope has vastly outstripped it's ambition, and I hope I've shown that not only applies to the achievements
