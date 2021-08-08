@@ -1,0 +1,6 @@
+- amongst first things you'll learn
+- show it from the scales menu
+- it's got those super bluesy flat notes 3,5,7 (examples)
+- if you can't bend there is still attitude to express, especially along to backing tracks
+- it's all about knowing what you've got and what you don't
+- on that, it's interesting to note that without the 5b this is the minor pentatonic
