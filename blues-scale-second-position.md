@@ -1,6 +1,11 @@
 - amongst first things you'll learn
 - show it from the scales menu
+- the core part to learn here happens between holes 2 and 6 and that's 2 draw (or 3 blow) 3draw half step, 4 blow, 4draw bend, 4draw, 5draw, 6blow
+- there's more either side of these limits but let's come back to that
 - it's got those super bluesy flat notes 3,5,7 (examples)
 - if you can't bend there is still attitude to express, especially along to backing tracks
 - it's all about knowing what you've got and what you don't
 - on that, it's interesting to note that without the 5b this is the minor pentatonic
+- this is a C harmonica in 2nd position, so this scale is being played in g and using harp guru we can see what all the notes on the scale are
+- we can also see what harmonica we would need to play this scale in other keys using the positions and menu
+- so what about these other holes then? Hole 1 is the same as 4. Hole 2 can be bent down to the 7b.
