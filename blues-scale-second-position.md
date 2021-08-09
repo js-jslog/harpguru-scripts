@@ -10,7 +10,7 @@ Now you can see that the notes we've highlighted are available further up and do
 
 The root and the 5th find their way in to most scales, because they are extremely stable. These are the first 2 notes that you will want to get really comfortable sliding to during improvisation. These are your safe notes. The 4th is unstable, not that that's a bad thing. You'll just find that you won't comfortably end phrases with it. The 4th is an important part of the 12 bar blues progression and along with the root (or I), and the 5th, be aware the the 1 4 5 chord progression is referring to these 3 notes.
 
-The remaining 3 notes, the 3b, the 5b and the 7b are really where we get blue. If you can bend then this 5b,7b doublestop, especially resolving with a scoop up to a 5th is almost *the* blue sound of the harmonica isn't it. The 3b can be involved in a similar doublestop with the 5b. 
+The remaining 3 notes, the 3b, the 5b and the 7b are really where we get blue. If you can bend then this 5b,7b doublestop, especially resolving with a scoop up to a 5th is almost *the* blue sound of the harmonica isn't it. The 3b can be involved in a similar doublestop with the 5b. <Do I need to bring up the 3 only works if you're in a major key yet?>
 
 So what do we have? Well we've got a root, of course, and we've got a 4th and a 5th as well. 
 
