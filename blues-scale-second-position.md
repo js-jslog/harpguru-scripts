@@ -2,11 +2,15 @@ If you've come to the harmonica to learn the blues then the blues scale is somet
 
 If that's you then don't worry, you're not wasting your time, and if you're just here to get a new perspective then we've got you covered too.
 
-We're going to be talking about the blues scale in second position today. That means that if you've got a C harp, we'll be playing in the key of G, with the 2 draw being our root note.
+We're going to be talking about the blues scale in second position today. That means that if we've got a C harp, we'll be playing in the key of G, with the 2 draw being our root note.
 
-We'll start with the core pattern which happens between holes 2 & 6, and that's 2draw, 3draw halfstepbend, 4draw bend, 4draw, 5draw & 6blow, and in G it'll sound like this.
+We'll start with the core pattern which happens between holes 2 & 6, and that's 2draw, 3draw halfstepbend, 4blow, 4draw bend, 4draw, 5draw & 6blow, and in G it'll sound like this.
 
 Now you can see that the notes we've highlighted are available further up and down the harp in higher and lower octaves too, but let's just concentrate on the middle octave for now.
+
+The root and the 5th find their way in to most scales, because they are extremely stable. These are the first 2 notes that you will want to get really comfortable sliding to during improvisation. These are your safe notes. The 4th is unstable, not that that's a bad thing. You'll just find that you won't comfortably end phrases with it. The 4th is an important part of the 12 bar blues progression and along with the root (or I), and the 5th, be aware the the 1 4 5 chord progression is referring to these 3 notes.
+
+The remaining 3 notes, the 3b, the 5b and the 7b are really where we get blue. If you can bend then this 5b,7b doublestop, especially resolving with a scoop up to a 5th is almost *the* blue sound of the harmonica isn't it. The 3b can be involved in a similar doublestop with the 5b. 
 
 So what do we have? Well we've got a root, of course, and we've got a 4th and a 5th as well. 
 
