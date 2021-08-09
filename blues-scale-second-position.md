@@ -1,4 +1,20 @@
-- amongst first things you'll learn
+If you've come to the harmonica to learn the blues then the blues scale is something you're going to discover so early that you might not have even squeeked out your first bend yet.
+
+If that's you then don't worry, you're not wasting your time, and if you're just here to get a new perspective then we've got you covered too.
+
+We're going to be talking about the blues scale in second position today. That means that if you've got a C harp, we'll be playing in the key of G, with the 2 draw being our root note.
+
+We'll start with the core pattern which happens between holes 2 & 6, and that's 2draw, 3draw halfstepbend, 4draw bend, 4draw, 5draw & 6blow, and in G it'll sound like this.
+
+Now you can see that the notes we've highlighted are available further up and down the harp in higher and lower octaves too, but let's just concentrate on the middle octave for now.
+
+So what do we have? Well we've got a root, of course, and we've got a 4th and a 5th as well. 
+
+Because we're using Harp Guru, we can also see what the notes of this scale are.
+
+
+
+
 - show it from the scales menu
 - the core part to learn here happens between holes 2 and 6 and that's 2 draw (or 3 blow) 3draw half step, 4 blow, 4draw bend, 4draw, 5draw, 6blow
 - there's more either side of these limits but let's come back to that
