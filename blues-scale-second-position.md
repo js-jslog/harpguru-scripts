@@ -8,6 +8,14 @@ We'll start with the core pattern which happens between holes 2 & 6, and that's 
 
 Now you can see that the notes we've highlighted are available further up and down the harp in higher and lower octaves too, but let's just concentrate on the middle octave for now.
 
+It's true, you do need to be able to bend to play this scale in full. And while the 3b & the 5b are really important to the full bluesy sound, they are also very easy to overuse, so if you can't play them then just think of this as a great opportunity to figure out how to be melodic and expressive without them. In fact simply removing the 5b leaves you with the minor pentatoic scale which is a melody making machine by itself.
+
+Lot's of you will be able to bend the 3 and 5 draws, but this advice is still relevant for most people because most of us can't hit the 6 overblow and the 7 & 10 overdraws. And frankly, I don't practice that 10 blowbend enough either. But that doesn't mean I can't carry the tone of the blues scale up to hole 10. We just have to recognise what we do and don't have and make the most of it.
+
+So that's it. This visualisation has been created in Harp Guru, and we're 
+
+
+
 The root and the 5th find their way in to most scales, because they are extremely stable. These are the first 2 notes that you will want to get really comfortable sliding to during improvisation. These are your safe notes. The 4th is unstable, not that that's a bad thing. You'll just find that you won't comfortably end phrases with it. The 4th is an important part of the 12 bar blues progression and along with the root (or I), and the 5th, be aware the the 1 4 5 chord progression is referring to these 3 notes.
 
 The remaining 3 notes, the 3b, the 5b and the 7b are really where we get blue. If you can bend then this 5b,7b doublestop, especially resolving with a scoop up to a 5th is almost *the* blue sound of the harmonica isn't it. The 3b can be involved in a similar doublestop with the 5b. <Do I need to bring up the 3 only works if you're in a major key yet?>
