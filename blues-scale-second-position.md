@@ -12,7 +12,9 @@ It's true, you do need to be able to bend to play this scale in full. And while 
 
 Just as a matter of interest, you may have heard of somehting called the tritone, or the devils interval. It's the ultra-dissonant and unnerving interval loved by black sabbeth and falsly rumoured to have been banned by the churches in medieval Europe. The devils interval is the same thing as the 5b. It's called a tritone because it's composed of 3 whole tones, or 6 semitones or halfsteps depending on your dialect. You can see in the left hand legend here that from C to Gb is 6 semitones. It's the devils interval. That's how spicy it is. So yes, do take care with it won't you.
 
+So that's your overview I think. Here are your notes, don't worry if you can't play all of them yet, and if you can, just be tasteful about it.
 
+There's lots more to discover, and there always will be, and if you want a guide on that journey then you should consider downloading Harp Guru. It's available on iOS and android now, and it'll help you explore and demystify all of your harps, make sense of what all of us teachers are saying on youtube, and give you some silent harp practice to do if you're the type of person who can't get your harp off of your mind but don't feel like actually cracking it out in front of all those strangers on the morning commute.
 
 
 Lot's of you will be able to bend the 3 and 5 draws, but this advice is still relevant for most people because most of us can't hit the 6 overblow and the 7 & 10 overdraws. And frankly, I don't practice that 10 blowbend enough either. But that doesn't mean I can't carry the tone of the blues scale up to hole 10. We just have to recognise what we do and don't have and make the most of it.
