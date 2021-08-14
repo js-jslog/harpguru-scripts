@@ -8,7 +8,12 @@ We'll start with the core pattern which happens between holes 2 & 6, and that's 
 
 Now you can see that the notes we've highlighted are available further up and down the harp in higher and lower octaves too, but let's just concentrate on the middle octave for now.
 
-It's true, you do need to be able to bend to play this scale in full. And while the 3b & the 5b are really important to the full bluesy sound, they are also very easy to overuse, so if you can't play them then just think of this as a great opportunity to figure out how to be melodic and expressive without them. In fact simply removing the 5b leaves you with the minor pentatoic scale which is a melody making machine by itself.
+It's true, you do need to be able to bend to play this scale in full. And while the 3b & the 5b are really important to the full bluesy sound, they are also very easily overused, so if you can't play them then just think of this as a great opportunity to figure out how to be melodic and expressive without them. In fact a common piece of advice for avoiding overuse of the 5b in particular is to recognise that without the 5b the blues scale becomes the minor pentatonic. Becoming proficient with the minor pentatonic is a great foundation in general, beyond the bluesy sound, so it can be really beneficial to actually work on your minor pentatonic alone, before learning to *tastefully* introduce the 5b. It's a spicy ingredient the 5b so having a strategy to being restrained with it can be very helpful.
+
+Just as a matter of interest, you may have heard of somehting called the tritone, or the devils interval. It's the ultra-dissonant and unnerving interval loved by black sabbeth and falsly rumoured to have been banned by the churches in medieval Europe. The devils interval is the same thing as the 5b. It's called a tritone because it's composed of 3 whole tones, or 6 semitones or halfsteps depending on your dialect. You can see in the left hand legend here that from C to Gb is 6 semitones. It's the devils interval. That's how spicy it is. So yes, do take care with it won't you.
+
+
+
 
 Lot's of you will be able to bend the 3 and 5 draws, but this advice is still relevant for most people because most of us can't hit the 6 overblow and the 7 & 10 overdraws. And frankly, I don't practice that 10 blowbend enough either. But that doesn't mean I can't carry the tone of the blues scale up to hole 10. We just have to recognise what we do and don't have and make the most of it.
 
