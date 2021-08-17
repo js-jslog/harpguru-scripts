@@ -8,7 +8,7 @@ We'll start with the core pattern which happens between holes 2 & 6, and that's 
 
 Now you can see that the notes we've highlighted are available further up and down the harp in higher and lower octaves too, we'll get to that but let's just concentrate on the middle octave for now.
 
-It's true, you do need to be able to bend to play this scale in full. And while the 3b & the 5b are really important to the full bluesy sound, they are also very easily overused, so if you can't play them yet then just think of this as a great opportunity to figure out how to be melodic and expressive without them.
+It's true, you do need to be able to bend to play this scale in full. And while the 3b & the 5b are really important to the full bluesy sound, they are also very easily overused, so if you can't play them yet then just think of this as a great opportunity to figure out how to be melodic and expressive without them. It's certainly possible as the very talented Woozle Effect will now demonstrate. That's a killer bluesy riff, with no bends, but a 7b and some tongue slaps doing a lot of work. That's actually on a D harp by the way. Check out Woozle Effect's work at some links in the description.
 
 Even for fully fledged benders, it's advisable to practice without the 5b sometimes, which happens to be the minor pentatonic, because doing so will help you be restrained with the 5b. It's a spicy ingredient the 5b so having a strategy for using it tastefully is essential.
 
