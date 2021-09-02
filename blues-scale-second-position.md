@@ -1,6 +1,6 @@
 If you've come to the harmonica to learn the blues then the blues scale is something you're going to discover so early that you might not have even squeeked out your first bend yet.
 
-If that's you then don't worry, there's still plenty here for you, and if you're already clued up and just here to get a new perspective then we've got you covered too.
+If that's you then don't worry, there's still plenty here for you, and if you're already clued up on the blues scale and just here to get a new perspective then we've got you covered too.
 
 We're going to be talking about the blues scale in second position today. That means that if we've got a C harp, we'll be playing in the key of G, with the 2 draw being our root note.
 
