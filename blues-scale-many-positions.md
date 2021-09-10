@@ -13,9 +13,9 @@ Harp Guru is available in the Android and iOS stores now and was recently descri
 
 So how's this going to work? What we'll do is take a scale that many of us are already familiar with, the blues scale. If you aren't familiar then take a look in the description for a link to my visual introduction in another video.
 
-Assuming that you are proficient enough with bends and blowbends to play the blues scale in second position, we're going to see how many other positions we can play our familiar blues scale in. I'm sure you'll be surprised and excited to try some of them out.
+Assuming that you are proficient enough with bends and blowbends to play the blues scale in second position, we're going to see how many other positions we can play our familiar blues scale in. I'm sure you'll be surprised at the result and excited to try some of them out.
 
-We won't require any overblows or overdraws for this. If you have all the overblows and overdraws already then you know you can play any scale in any position. What we want to prove today is that intermediate and even beginner players can stay in their comfort zone, but still get a worthwile insight in to positional playing.
+We'll assume we can't play any overblows or overdraws. What we want to prove today is that intermediate and even beginner players can stay in their comfort zone, but still get a worthwile insight in to positional playing.
 
 So let's get started. Here's the blues scale in second position. We can't play all the notes. We've got the important 3b & 5b's on holes 6 7 & 10 as overblow and overdraws, but we've got those notes available elsewhere on holes 3, 4 & 10, and we've even got a complete scale available down here, so we're happy.
 
