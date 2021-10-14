@@ -11,7 +11,7 @@ the default scale as Winslow calls it, is the blues scale. If you play all of th
 
 This is called the penta harp though and I think the reason for that it's been built to play both the minor and major pentatonic scales, but not in the same key.
 If you've seen my video on relative keys you'll understand that you can play patterns in one key which will fit one scale (a minor pentatonic perhaps), and when
-you play the exact same pattern starting on a different root note you will play another (a major pentatonic). In this case we can play in 10th position, using the
+you play the exact same pattern (the exact same notes) starting on a different root note you will play another (a major pentatonic). In this case we can play in 10th position, using the
 1 draw as the root note and playing the same pattern we get the 1, 2, 3, 5 & 6 of the major pentatonic.
 
 Now what I've not seen discussed is that from 10th position you have easy access to the major scale, the mixolydian, the lydian scale, and because we've got this
