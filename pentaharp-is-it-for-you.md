@@ -15,12 +15,12 @@ you play the exact same pattern (the exact same notes) starting on a different r
 1 draw as the root note and playing the same pattern we get the 1, 2, 3, 5 & 6 of the major pentatonic.
 
 Now what I've not seen discussed is that from 10th position you have easy access to the major scale, the mixolydian, the lydian scale, and because we've got this
-3b here we can also play Dorian.
+3b here we can also play Dorian. We can also play this like a country tuned harp because we have the 7 available along with the major pentatonic & the option to play a 3b although on a country tuned harp we are able to slur between the 2 & the 3 which we can't do here.
 
 As ever, this is a chromatic instrument if you can hit these overblows to play natural minor, phrygian and locrian, but if you can't then you can just switch back to
 1st position and they are available with just the draw bends again.
 
-You can also find a non-bent root note in 12th, 11th, 7th, & 2nd position which can all be explored in great detail using Harp Guru.
+You can also find a non-bent root note in 12th (you see the green root note is still unbent here - follow it around now), 11th, 7th, & 2nd position which can all be explored in great detail using Harp Guru.
 
 A final point on positions - for those who are confused that 10th position has a root note on the 1 draw, thinking that that means 3rd position to them, just
 remember that position numbers are not assigned based on hole location, but on relative pitch. 1 draw is 3rd position on a richter harp because 1 draw on a C is D
