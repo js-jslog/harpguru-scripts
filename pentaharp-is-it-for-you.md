@@ -7,7 +7,7 @@ the way up the harp. You can play the same pattern in each of these octaves unti
 We all know it's not only beginners who struggle with the layout of Richter tuning.
 
 There's only one unbent note not highlighted here yet, the 5b, which when included of course makes this the blues scale. So that means that in 1st position,
-the default scale as Wimslow calls it, is the blues scale. If you play all of the unbent notes you will play the blues scale.
+the default scale as Winslow calls it, is the blues scale. If you play all of the unbent notes you will play the blues scale.
 
 This is called the penta harp though and I think the reason for that it's been built to play both the minor and major pentatonic scales, but not in the same key.
 If you've seen my video on relative keys you'll understand that you can play patterns in one key which will fit one scale (a minor pentatonic perhaps), and when
