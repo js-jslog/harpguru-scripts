@@ -24,8 +24,19 @@ And there's more. You see how down here the blow reed is always lower than the d
 So without a doubt, if you want to play in the box like Payton & TJ, that's how much easier it is to do it on the PentaHarp. And if you're now sold or you just like fee stuff then let's talk giveaways. Hohner and their uk distributor Sutherland Trading are offering a free PentaHarp to one lucky winner. All you need to do is drop a comment on this or the accompanying Harp Guru pentaharp video's with your thoughts. Check out the other video's to increase your chances. Global entrants are welcome, the competition closes on January 15th and you might even get to choose the key of your prize.
 
 
+---------
 
+In the previous video we showed you why the PentaHarp is so much easier for playing blues and minor pentatonic melodies than the standard Richter tuned harp, and in this video we'll be keeping it simple and showing you some tips for getting the most out the PentaHarp at this easiest of levels, and again we're giving away one PentaHarp to one lucky winner courtesy of Hohner and their genrous UK distributers Sutherland Trading. So if you want to get the most out of your PentaHarp, or you just want in on that giveaway then keep watching.
 
+We'll be using Harp Guru again to give you the clearest view on things. If you've not seen Harp Guru before then do check out the previous PentaHarp video in the description to see why one 5 star reviewer of Harp Guru said they "reference it just about every time I practice", "whether you are a beginner [..] or getting deep in to music theory, Harp Guru is the app".
+
+So here we are again with the Cminor pentatonic showing the C blues scale, and you may be aware that if we remove the 5b from the blues scale we are left with the minor pentatonic. So our first tip is that if you want the pure minor pentatonic sound without that 5b, you just have to remove that 2 hole draw, the 5 hole draw and the 8 hole draw from your breathing pattern. That's just 3 holes across the whole length of the harp, and when you see the octaves divided like this it's clear that with a little practice this should be quite easy to achieve.
+
+The next tip considers what you can do around chord changes to help add interest to your solos. Again, very simple, we're just going to rely on some understanding of the function of each chord change. Let's consider the very popular 12 bar blues which uses a 1, 4 & 5 chord.
+
+Playing in the key of C, the 1 chord is C, the 4 chord is F & the 5 chord is G and those of course match up to the root, 4th and 5th scale degrees in C.
+
+---------
 
 
 
