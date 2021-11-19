@@ -49,7 +49,7 @@ Looking back at the harpface we can see that we are still playing C, Eb, F, G & 
 
 So the 3rd tip is to make use of 10th position with the 1 draw as the root note to play your major pentatonic solos. You might feel like suddendly there is twice as much information to absorb, but that is an illusion. It's the same stuff you already know, but with a different attitude, and with Harp Guru you can see that and know that it's true and good and everything is going to be ok.
 
-And now that you know everything is going to be ok, there's just time for a bonus tip. You remember how we stopped playing the 2, 5 & 8 draws in 1 position to leave out the 5b, because sometimes you just don't want that full on bluesy sound. Well practicing that in 1st position is going to be really useful when you come to 10th position, because in 10th position that Gb is actually a 3b, which is most likely going to sound very bad in whatever major pentatonic context you put it in.
+And now that you know everything is going to be ok, there's just time for a bonus tip. You remember how we stopped playing the 2, 5 & 8 draws in 1 position to leave out the 5b, because sometimes you just don't want that full on bluesy sound. Well practicing that in 1st position is going to be really useful when you come to 10th position, because in 10th position that Gb is actually a 3b, which again can sound great if you want that bluesy sound, but which you might want to shy away from if not. It's the same hole you are including / excluding, for a very similar reason.
 
 We go over the controls for Harp Guru in more detail in other videos, including how to change position and harp key with confidence so do be sure to check them out on the Harp Guru YouTube channel.
 
