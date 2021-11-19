@@ -17,7 +17,7 @@ Well we can see that the PentaHarp makes this easy for them, but how much easier
 
 This is a standard Richter tuned harmonica, playing the blues scale the way it most commonly is, and you can see immediately what they're talking about. The first thing you'll notice is that there is way more variance in breathing pattern. The breathing pattern you play in this octave is very different from the pattern you play in this octave.
 
-You can also see that there are other notes which you need to jump over. Some of them could sound great, like the 2 or even the 6 depending on the context, but this 3 going be risky in many contexts you're playing the blues scale and the point is that these players just wanted to play in the box with that blues scale and minor pentatonic with minimum effort. The pentaharp is giving us a much more regular pattern and "no wrong notes". For someone who just wants to let loose that's very helpful.
+You can also see that there are other notes which you need to jump over. Now these could sound great, but they're not the good old reliable pentatonic that these players wanted to thrash out with minimum effort. The pentaharp is giving us a much more regular pattern and "no wrong notes". For someone who just wants to let loose that's very helpful.
 
 The next thing is you can see how many of the notes of the blues scale fall outside the home row. That means that you need those special techniques to play these notes. This is the *most common way* to play this scale on a standard harmonica. It's not easy. It has it's own benefits, but being easy is not one of them.
 
