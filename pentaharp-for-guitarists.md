@@ -29,6 +29,21 @@ So without a doubt, if you want to play in the box like Payton & TJ, that's how 
 
 Harp Guru is available on both Android and iOS now and everything you need to know about how to get the most out of Harp Guru to demystify all of your harmonicas can be found in our youtube videos, so check out the channel, subscribe and give out as many thumbsups and comments as you want, we love it.
 
+Remaining points
+Add title
+Consider changing the closing date or removing the word "weeks"
+Add overlay inviting users to download harpguru, just after first promo images
+Notes to jump over (3.20)
+"Wrong notes" (on screen with flashing quotes) (3.40)
+
+Description
+Title: PentaHarp for guitarists (WIN A PENTAHARP)
+Screen title: PentaHarp How much easier though?
+
+
+Link to the original pentaharp for guitarists video
+Link to other pentaharp giveaway videos with "coming soon" next to the unreleased ones - need to remember to update them when they do get released
+
 ---------
 
 In the previous video we showed you why the PentaHarp is so much easier for playing blues and minor pentatonic melodies than the standard Richter tuned harp, and in this video we'll be keeping it simple and showing you some tips for getting the most out the PentaHarp at this most easiest of levels, and again we're giving away one PentaHarp to one lucky winner courtesy of Hohner and their genrous UK distributers Sutherland Trading. So if you want to get the most out of your PentaHarp, or you just want in on that giveaway then keep watching.
@@ -54,6 +69,17 @@ And now that you know everything is going to be ok, there's just time for a bonu
 We go over the controls for Harp Guru in more detail in other videos, including how to change position and harp key with confidence so do be sure to check them out on the Harp Guru YouTube channel.
 
 So there you have it, 4 tips for getting the most out of your PentaHarp with the least effort possible. Before we get on to the PentaHarp giveaway courtesy of Hohner and Sutherland trading, if you like what you have seen here then please do give us a thumbsup and a comment, it helps us out loads costs you nothing and is actually the competition entry requirements anyway. That's right, if you are alive anywhere in the world right now, all you have to do is give a thumbsup and a comment on this and / or any of the other giveaway videos all linked together in the description telling us what you think about the PentaHarp and / or this lesson. Comments & likes on all the videos definitely increases your chances of winning and the competition ends on January 15th so don't delay and keep an eye out for replies to your comments on the 15th to let you know you've won.
+
+
+Remaining tasks
+Overlays around the 145 stuff (1.30)
+Overlay and soundtrack on emphasis (2.30)
+Highlight the Eb as the 1draw (3.00)
+
+Description
+Link to other videos
+
+
 
 ---------
 
