@@ -20,9 +20,9 @@ But hey, you know where it's not an overblow, is in 10th position.
 
 # 10th
 
-In 10th position we have both the 3b and the 5b, and look, the 3b is one of the unbent notes which means that there aren't any unbent notes which might be considered "wrong notes", at least in the blues which should put your mind at ease. We've also still got the complete scoop from the 4 to the 5 through the 5b, but we no longer have the 5 / 7b doublestop.
+In 10th position we have both the 3b and the 5b, and look, the 3b is one of the unbent notes which means that there aren't any unbent notes which might be considered "wrong notes", at least in the blues which should put your mind at ease. We've also still got the complete scoop from the 4 to the 5 through the 5b, but we no longer have the 5 / 7b doublestop that we had in 9th.
 
-Something Will Wilde would approve of is that we've got both our root and our 5th on draw holes which means we can get lots of power & texture in them. The root and 5th are amongst the most likely notes to be being held in any context so this is a great general purpose feature.
+Something Will Wilde would approve of is that we've got both our root and our 5th on draw reeds which means we can get lots of power & texture in them. The root and 5th are amongst the most likely notes to be being held in any context so this is a great general purpose feature.
 
 And while we're on general purpose feature, 10th is the only position which has a traditional triad to chug on. It's a minor triad which unfortunately means it's not a perfect harmonising accompaniment to the mixolydian backing you'll be playing against, but there's bound to be good effect it can be put to yet.
 
