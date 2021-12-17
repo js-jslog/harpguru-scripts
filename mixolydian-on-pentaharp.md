@@ -1,12 +1,10 @@
 One of the biggest factors in chosing a position to play a scale in is; how easy is it. Well there are 4 positions on a PentaHarp where a mixolydian scale requires no overblows. But there's many more interesting things to consider in getting the most out of your choice and tooday we'll dive in to this question using Harp Guru, showing why Harp Guru is helping people to "quote"... and at the end we'll tell you how you can enter a giveaway to win a pentaharp of your own courtesy of Hohner themselves and their generous UK distributors Sutherland trading.
 
-The Mixolydian scale is a foundational scale in many forms of music, especially those to which the haromica has been most famously associated. And without needing overblows you can play a mixolydian scale in 4 positions on a PentaHarp. 9th, 10th, 11th & 12th.
+The 4 positions we're talking about here are 9th, 10th, 11th & 12th. Don't let those high numbers scare you. These are the easiest positions to play mixolydian in, and if you're not familiar with positions and why they shouldn't scare you in *general* then check out my introductions to positions linked below.
 
-Don't let those high numbers scare you. These are the easiest positions to play mixolydian in, and if you're not familiar with positions and why *they* shoudln't scare you either then check out my introductions to positions linked below.
+So 4 positions using only blow, draw and bends already means that we can play in 4 keys on a single harp. For example, on this C PentaHarp we can play a mixolydian in F, Bb, Eb & Ab. If some of those keys don't sound very useful to you then how about we change the harp key to an A (which means that in 9th position we'll be playing in the key of F) where if we come back to listing the available positions for that harp key you can see you'll be able to play in F, C, G & D in 9th, 10th, 11th & 12th position. Those are some useful keys.
 
-So 4 positions using only blow, draw and bends already means that we can play in 4 keys on a single harp. For example, on this c PentaHarp we can play a mixolydian in F, Bb, Eb & Ab. If some of those keys don't sound very useful to you then how about we change the harp key to an A (which means that in 9th position we'll be playing in the key of F) where if we come back to listing the available positions for that harp key you can see you'll be able to play in F, C, G & D in 9th, 10th, 11th & 12th position. Those are some useful keys.
-
-Actually, most of the available PentaHarps will give you a good common set of keys in 9th, 10th, 11th & 12th positions, just the C as we've already seen, and the Bb as I'm showing now will have you potentially playing flat versions of much more common keys so watch out for that when you're making your first purchase decision if you want to be playing mixolydian and other major key tunes.
+Actually, most of the available PentaHarps will give you a good common set of keys in all of 9th, 10th, 11th & 12th positions, just the C as we've already seen, and the Bb as I'm showing now will have you potentially playing flat versions of much more common keys so watch out for that when you're making your first purchase decision if you want to be playing mixolydian and other major key tunes.
 
 Ok, so apart from the key that we'll be playing in, what other features of these positions separate them from one another? Let's start with 9th.
 
@@ -20,21 +18,9 @@ Now we're talking about the 5b here which of course isn't part of the mixolydian
 
 But hey, you know where it's not an overblow, is in 10th position.
 
-# Available
-- Bend down to a root
-- Scoop up from 5b to 5
-- 5, 7b doublestop
-- Can swap the 7b for the 7 to get the major scale and with the 5b you can get some of the country sound, but without the 3b you'll be missing a little bit of what we expect from a "country tuning"
-- Something we don't get to do much is bend down a whole step to our root note. I'm sure there are some nice tonic resolutions resulting from that.
-- Double-bend-double-stop  1/4 to 2/5, probably works better than the other  way around because 1/4...
-
-# Missing
-- 3b which rules out any basic western minor flourishes. The 5b and to some extent the 2b can be used, but for the majority of our playing the 3b is the real foundational element to minor sounds.
-- 6b
-
 # 10th
 
-In 10th position we have both the 3b and the 5b, and look, the 3b is one of the unbent notes which means that there aren't any unbent notes which would be considered completely "wrong notes", at least in the blues which should put your mind at ease. We've also still got the complete scoop from the 4 to the 5 through the 5b, but we no longer have the 5 / 7b doublestop.
+In 10th position we have both the 3b and the 5b, and look, the 3b is one of the unbent notes which means that there aren't any unbent notes which might be considered "wrong notes", at least in the blues which should put your mind at ease. We've also still got the complete scoop from the 4 to the 5 through the 5b, but we no longer have the 5 / 7b doublestop.
 
 Something Will Wilde would approve of is that we've got both our root and our 5th on draw holes which means we can get lots of power & texture in them. The root and 5th are amongst the most likely notes to be being held in any context so this is a great general purpose feature.
 
@@ -42,21 +28,20 @@ And while we're on general purpose feature, 10th is the only position which has 
 
 # 11th
 
-Looking at 11th position we can see that we have something familiar again, and unique (so far) to 11th as well, which is that we can scoop up from the 3b to the major 3rd. This is reminiscent of what we have in 3rd position on a Richter harp, and of course 2nd position aswell  except that we can't bend further down to the 2 like we can in second position. Still, we know that this is nice to have, but unfortunately this time, in contrast to 9th position, we are missing the 5b up on the overblows, and something subtle here.
+Looking at 11th position we can see that we have something familiar again, and unique (so far) to 11th as well, which is that we can scoop up from the 3b to the major 3rd. This is reminiscent of what we have in 3rd position on a Richter harp, and of course 2nd position as well except that we can't bend further down to the 2 like we can in second position. Still, we know that this is nice to have, but unfortunately this time, in contrast to 9th position, we are missing the 5b up on the overblows.
 
 # 12th
 
 12th position has the same issue again with the missing 5b, but all of the necessary bends for the mixolydian are only on halfstep bends which might be beneficial depending on your bending ability or your desire for speed.
 
-And of course the following are all true of all the positions; they'll have their own doublestops and warbles available which will work to various degrees in various contexts. We have a 4 / 7b available here in 12th for example. What does that sound like? Well you're going to just have to play it and see. The same is true with the fact that there really is no such thing as a wrong note and that the role each note plays changes through a chord progression, so while we've not said much about the major 7ths, 6bs & 2bs which occupy the unbent non-mixolydian notes in 9th, 11th and 12th position that doesn't mean that they can't be used to good effect, and each of these positions makes each of those notes available to different degrees.
+And of course the following are all true of all the positions; they'll have their own doublestops and warbles available which will work to various degrees in various contexts. We have a 4 / 7b available here in 12th for example. What does that sound like? Well you're going to just have to play it and see. The same is true with the fact that there really is no such thing as a wrong note and that the role each note plays changes through a chord progression, so while we've not said much about the major 7ths, 6bs & 2bs which occupy the unbent non-mixolydian notes in 9th, 11th and 12th position that doesn't mean that they can't be used to good effect.
 
 Exploring all of this properly will of course require a PentaHarp. But to interrogate the meaning of what you're hearing and to come up with ideas to try out requires a solid understanding of what you've got in your hands and there is no better tool for that job than Harp Guru.
 
+So if you would like to download Harp Guru you can do so now in both the Android and iOS stores, and if you would like a PentaHarp you can buy one of them too, or possibly you could just win one right here. All you need to do is give this video a like and a comment and wait for the 15th January when the winner will be contacted.
 
+Add a first comment "I think the conclusion that for playing in major keys we might get the most value from a D, G, A or E tuned PentaHarp rather than C and Bb is espcially interesting. What do you think?"
 
-If you're thinking of playing major key and specifically mixolydian scales on the Pentaharp then possibly the key of A will
-
-
-Add a first comment "I think the conclusion that for playing in major keys we might get the most value from an A tuned PentaHarp is espcially interesting. What do you think?"
+In the facebook posting we could say something like "This video draws many conclusions including that a D tuned PentaHarp is more useful for playing major blues than a C tuned one. If that sounds like a strange thing to say then listen in to find out why".
 
 Ask Steve Baker whether he has a recomendation for backing tracks which would be allowed to be used by me.
