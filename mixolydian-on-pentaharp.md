@@ -16,9 +16,9 @@ The first thing that stands out about 9th position is that the root note is on a
 
 2 familiar faces from our Richter tuned playing is this architypically bluesy 5 / 7b doublestop and the 5b to 5 scoop which is often heard accompanying the doublestop. Something new that the PentaHarp offers, apart from being able to do this in 3 octaves consistently as we have come to expect, is that the 5b can be bent down further to the 4. You only need to think as far as the 12 bar blues to imagine a Vchord to IVchord transition which probably hasn't had a nice complete scoop applied to it much. A Richter tuned harp can do this in 5th and 10th position, but only in one octave and 10th position's root note is on an overblow in 2 octaves which is probably why none of us mortals have thought much about playing it.
 
-Now we're talking about the 5b here which of course isn't part of the mixolydian scale, but we do know that the 5b can just slide in to many many mixolydian contexts, as can the 3b. If you are playing a major blues you'll often want to 
+Now we're talking about the 5b here which of course isn't part of the mixolydian scale, but we do know that the 5b can just slide in to many many mixolydian contexts, as can the 3b. If you are playing a major blues you'll often want to throw in some minor tension using these notes, so it's a shame that in 9th position the 3b is an overblow, putting it out of reach of most of us.
 
-Ask Steve Baker whether he has a recomendation for backing tracks which would be allowed to be used by me.
+But hey, you know where it's not an overblow, is in 10th position.
 
 # Available
 - Bend down to a root
@@ -34,17 +34,23 @@ Ask Steve Baker whether he has a recomendation for backing tracks which would be
 
 # 10th
 
-# Available
-- Both the root and the 5th are on straight draws. Since these are our 2 most stable notes they are the ones that we're most often going to hold and want to put 
-- Scoop up from 5b to 5
-- Both the 3b & the major 7, which means we can access the country sound
-- We have a minor triad available. Triads are hard to come by on the pentaharp so this is noteworthy, but potentially a little difficult to use in contexts where you are also using a mixolydian scale
+In 10th position we have both the 3b and the 5b, and look, the 3b is one of the unbent notes which means that there aren't any unbent notes which would be considered completely "wrong notes", at least in the blues which should put your mind at ease. We've also still got the complete scoop from the 4 to the 5 through the 5b, but we no longer have the 5 / 7b doublestop.
 
-They all only have 1 note to deliberately miss out from the unbent notes.
+Something Will Wilde would approve of is that we've got both our root and our 5th on draw holes which means we can get lots of power & texture in them. The root and 5th are amongst the most likely notes to be being held in any context so this is a great general purpose feature.
 
+And while we're on general purpose feature, 10th is the only position which has a traditional triad to chug on. It's a minor triad which unfortunately means it's not a perfect harmonising accompaniment to the mixolydian backing you'll be playing against, but there's bound to be good effect it can be put to yet.
 
+# 11th
 
+Looking at 11th position we can see that we have something familiar again, and unique (so far) to 11th as well, which is that we can scoop up from the 3b to the major 3rd. This is reminiscent of what we have in 3rd position on a Richter harp, and of course 2nd position aswell  except that we can't bend further down to the 2 like we can in second position. Still, we know that this is nice to have, but unfortunately this time, in contrast to 9th position, we are missing the 5b up on the overblows, and something subtle here.
 
+# 12th
+
+12th position has the same issue again with the missing 5b, but all of the necessary bends for the mixolydian are only on halfstep bends which might be beneficial depending on your bending ability or your desire for speed.
+
+And of course the following are all true of all the positions; they'll have their own doublestops and warbles available which will work to various degrees in various contexts. We have a 4 / 7b available here in 12th for example. What does that sound like? Well you're going to just have to play it and see. The same is true with the fact that there really is no such thing as a wrong note and that the role each note plays changes through a chord progression, so while we've not said much about the major 7ths, 6bs & 2bs which occupy the unbent non-mixolydian notes in 9th, 11th and 12th position that doesn't mean that they can't be used to good effect, and each of these positions makes each of those notes available to different degrees.
+
+Exploring all of this properly will of course require a PentaHarp. But to interrogate the meaning of what you're hearing and to come up with ideas to try out requires a solid understanding of what you've got in your hands and there is no better tool for that job than Harp Guru.
 
 
 
@@ -52,3 +58,5 @@ If you're thinking of playing major key and specifically mixolydian scales on th
 
 
 Add a first comment "I think the conclusion that for playing in major keys we might get the most value from an A tuned PentaHarp is espcially interesting. What do you think?"
+
+Ask Steve Baker whether he has a recomendation for backing tracks which would be allowed to be used by me.
