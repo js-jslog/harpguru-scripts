@@ -28,7 +28,7 @@ And while we're on general purpose feature, 10th is the only position which has 
 
 # 11th
 
-Looking at 11th position we can see that we have something familiar again, and unique (so far) to 11th as well, which is that we can scoop up from the 3b to the major 3rd. This is reminiscent of what we have in 3rd position on a Richter harp, and of course 2nd position as well except that we can't bend further down to the 2 like we can in second position. Still, we know that this is nice to have, but unfortunately this time, in contrast to 9th position, we are missing the 5b up on the overblows.
+Looking at 11th position we can see that we have something familiar again, and unique (so far) to 11th as well, which is that we can scoop up from the 3b to the major 3rd. This is reminiscent of what we have in 3rd position on a Richter harp, and of course 2nd position as well except that we can't bend further down to the 2 like we can in second position. Still, we know that this is nice to have, but unfortunately this time, in contrast to 9th position, this time we are missing the 5b as its up on the overblows.
 
 # 12th
 
