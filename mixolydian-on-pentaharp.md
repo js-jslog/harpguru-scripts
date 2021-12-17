@@ -38,7 +38,7 @@ And of course the following are all true of all the positions; they'll have thei
 
 Exploring all of this properly will of course require a PentaHarp. But to interrogate the meaning of what you're hearing and to come up with ideas to try out requires a solid understanding of what you've got in your hands and there is no better tool for that job than Harp Guru.
 
-So if you would like to download Harp Guru you can do so now in both the Android and iOS stores, and if you would like a PentaHarp you can buy one of them too, or possibly you could just win one right here. All you need to do is give this video a like and a comment and wait for the 15th January when the winner will be contacted.
+So if you would like to download Harp Guru you can do so now in both the Android and iOS stores, and if you would like a PentaHarp you can buy one of them too, or possibly you could just win one right here. All you need to do is give this video a like and a comment and wait for the 15th January when the winner will be contacted. Thanks again to Hohner and Sutherland trading for this giveaway, and thanks to you for watching.
 
 Add a first comment "I think the conclusion that for playing in major keys we might get the most value from a D, G, A or E tuned PentaHarp rather than C and Bb is espcially interesting. What do you think?"
 
